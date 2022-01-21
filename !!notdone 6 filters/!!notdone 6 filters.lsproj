@@ -1,0 +1,797 @@
+{
+    "lens_id": "",
+    "document_id": "Y6ZtukRZ0GRydk76wSF0",
+    "original_document_id": "Y6ZtukRZ0GRydk76wSF0",
+    "version": "24",
+    "lastChanged": "1592030186677",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Empty"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (4)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (5)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (6)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (7)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (8)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (9)"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1592029125063422:2908",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1592029179450547:10122",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1592029179559279:10143",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1592029179688665:10349",
+                    "name": "Files\/File15.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1592029179892466:10377",
+                    "name": "Files\/File17.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1592029179986620:10390",
+                    "name": "Files\/File19.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1592029180135321:10620",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1592029305898401:23123",
+                    "name": "Files\/File23.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1592029776568958:85034",
+                    "name": "Files\/File24.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1592029124716648:2832",
+                "4": "1592029124717410:2833",
+                "5": "1592029133934986:3840",
+                "6": "1592029138747818:4560",
+                "7": "1592029142269921:5212",
+                "8": "1592029150195387:6326",
+                "9": "1592029154395297:7142"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.jpg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.jpg"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.jpg"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.jpg"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.jpg"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.jpg"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.jpg"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.jpg"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.js"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Empty.png"
+                    },
+                    {
+                        "k": "970",
+                        "v": "base_post_effect_lookup_table_new232832 (7).jpg"
+                    },
+                    {
+                        "k": "971",
+                        "v": "base_post_effect_lookup_table_new232832 (8).jpg"
+                    },
+                    {
+                        "k": "972",
+                        "v": "base_post_effect_lookup_table_new232832 (9).jpg"
+                    },
+                    {
+                        "k": "973",
+                        "v": "base_post_effect_lookup_table_new232832 (4).jpg"
+                    },
+                    {
+                        "k": "974",
+                        "v": "base_post_effect_lookup_table_new232832 (5).jpg"
+                    },
+                    {
+                        "k": "975",
+                        "v": "base_post_effect_lookup_table_new232832 (6).jpg"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Script.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "176ebd81a6145a98cc0464c9264b7fce"
+                    },
+                    {
+                        "k": "969",
+                        "v": "3176e00ec7c9b537198d63533bf60285"
+                    },
+                    {
+                        "k": "970",
+                        "v": "db2e234d95fc0c44e36d7957e7691872"
+                    },
+                    {
+                        "k": "971",
+                        "v": "d558a773a4054c5717a62a2ae75b6757"
+                    },
+                    {
+                        "k": "972",
+                        "v": "b2b304bf435e281fdf31c5224deeb139"
+                    },
+                    {
+                        "k": "973",
+                        "v": "76b27d2a2e7a05c1e231cafbe70e2a5f"
+                    },
+                    {
+                        "k": "974",
+                        "v": "345fed5a18312e39ce36b687717dd08a"
+                    },
+                    {
+                        "k": "975",
+                        "v": "c03f2002d69ac5e076158163114d5472"
+                    },
+                    {
+                        "k": "976",
+                        "v": "28d340e48fb1e441f05af039a46534b2"
+                    },
+                    {
+                        "k": "977",
+                        "v": "3bc695511760b02bb02d71acb20207da"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-13T12:01:44",
+                        "name": "Public",
+                        "hash": "1d2aa0bf976cdfd0324c4b25bc78c71b",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:45",
+                                "name": "base_post_effect_lookup_table_new232832 (4).jpg",
+                                "hash": "76b27d2a2e7a05c1e231cafbe70e2a5f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:39",
+                                "name": "base_post_effect_lookup_table_new232832 (5).jpg",
+                                "hash": "345fed5a18312e39ce36b687717dd08a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:34",
+                                "name": "base_post_effect_lookup_table_new232832 (6).jpg",
+                                "hash": "c03f2002d69ac5e076158163114d5472",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:26",
+                                "name": "base_post_effect_lookup_table_new232832 (7).jpg",
+                                "hash": "db2e234d95fc0c44e36d7957e7691872",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:17",
+                                "name": "base_post_effect_lookup_table_new232832 (8).jpg",
+                                "hash": "d558a773a4054c5717a62a2ae75b6757",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:03",
+                                "name": "base_post_effect_lookup_table_new232832 (9).jpg",
+                                "hash": "b2b304bf435e281fdf31c5224deeb139",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:16",
+                                "name": "Behavior.js",
+                                "hash": "28d340e48fb1e441f05af039a46534b2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Empty.png",
+                                "hash": "176ebd81a6145a98cc0464c9264b7fce",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:01:44",
+                                "name": "Script.js",
+                                "hash": "3bc695511760b02bb02d71acb20207da",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Empty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1592029125063422:2908",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "968",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Empty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (7)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1592029179450547:10122",
+                        "fileId": "11",
+                        "originalId": "12",
+                        "publicId": "970",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (7).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (8)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1592029179559279:10143",
+                        "fileId": "13",
+                        "originalId": "14",
+                        "publicId": "971",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (8).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (9)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1592029179688665:10349",
+                        "fileId": "15",
+                        "originalId": "16",
+                        "publicId": "972",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (9).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (4)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1592029179892466:10377",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "973",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (4).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (5)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1592029179986620:10390",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "974",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (5).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (6)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1592029180135321:10620",
+                        "fileId": "21",
+                        "originalId": "22",
+                        "publicId": "975",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (6).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1592029305898401:23123",
+                        "fileId": "23",
+                        "originalId": "18446744073709551615",
+                        "publicId": "976",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Scripts\/BehaviorScript.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1592029776568958:85034",
+                        "fileId": "24",
+                        "originalId": "18446744073709551615",
+                        "publicId": "977",
+                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-boGTew\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1592029138747818:4560"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

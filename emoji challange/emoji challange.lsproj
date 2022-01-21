@@ -1,0 +1,682 @@
+{
+    "lens_id": "",
+    "document_id": "f5RvbpngfoyLfbAsUaZO",
+    "original_document_id": "f5RvbpngfoyLfbAsUaZO",
+    "version": "23",
+    "lastChanged": "1590782898204",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-05-29T20:04:20.991Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Beauty"
+                    ],
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Retro Game"
+                    ],
+                    [
+                        "WhatsApp Video 2020-05-29 at 9"
+                    ],
+                    [
+                        "XXXTentacion - Moonlight 🎵"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "ezgif"
+                    ],
+                    [
+                        "ezgif 2"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "90b0c0cb158959dac3008c514a0b1197",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_open_your_mouth"
+            ],
+            "lens": "facemoji challange",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1590780744538963:1931",
+                    "1590780824870061:2306",
+                    "1590782012192230:18153"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1590780734634458:1870",
+                    "name": "Files\/File3.29 pm",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1590781380502905:3386",
+                    "name": "Files\/File4",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1590781436302022:4894",
+                    "name": "Files\/File6.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1590781769001317:9641",
+                    "name": "Files\/File7.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1590782031860185:19392",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1590782052556748:20709",
+                    "name": "Files\/File10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1590782338891840:22719",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1590780744538426:1930",
+                "4": "1590780824869815:2305",
+                "5": "1590780824870061:2306",
+                "6": "1590781429113344:4780",
+                "7": "1590781585890055:9033",
+                "8": "1590782012192230:18153",
+                "9": "1590782052425308:20664"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.29 pm"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.gif"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.mp3"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.gif"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "WhatsApp Video 2020-05-29 at 9.29 pm"
+                    },
+                    {
+                        "k": "4",
+                        "v": "ezgif.gif"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "6",
+                        "v": "XXXTentacion - Moonlight 🎵.mp3"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Retro Game.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Beauty.png"
+                    },
+                    {
+                        "k": "9",
+                        "v": "ezgif 2.gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "7a0299dce4ce5df2d22c7ebb09a2e573"
+                    },
+                    {
+                        "k": "4",
+                        "v": "05ce76e10a38d471f6ac25ef0bb1b80d"
+                    },
+                    {
+                        "k": "5",
+                        "v": "b135f6a9cefe77e6bd518dc014fd6257"
+                    },
+                    {
+                        "k": "6",
+                        "v": "7ca455b6e93448dc5e3055012396932a"
+                    },
+                    {
+                        "k": "7",
+                        "v": "bd03af9bfd6997f4e35bf984505ae290"
+                    },
+                    {
+                        "k": "8",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "9",
+                        "v": "fb5bfa6a979e01805d1d457386bfd3be"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-30T01:28:58",
+                        "name": "Public",
+                        "hash": "53553c80108ff03e76aec38381fd56e8",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Beauty.png",
+                                "hash": "a276acaed7d65e4c1b56181771677a77",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:20:22",
+                                "name": "Behavior.js",
+                                "hash": "b135f6a9cefe77e6bd518dc014fd6257",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-30T01:28:42",
+                                "name": "ezgif 2.gif",
+                                "hash": "fb5bfa6a979e01805d1d457386bfd3be",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-30T01:12:43",
+                                "name": "ezgif.gif",
+                                "hash": "05ce76e10a38d471f6ac25ef0bb1b80d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Retro Game.png",
+                                "hash": "bd03af9bfd6997f4e35bf984505ae290",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-30T01:00:36",
+                                "name": "WhatsApp Video 2020-05-29 at 9.29 pm",
+                                "hash": "7a0299dce4ce5df2d22c7ebb09a2e573",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-30T01:19:25",
+                                "name": "XXXTentacion - Moonlight 🎵.mp3",
+                                "hash": "7ca455b6e93448dc5e3055012396932a",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "WhatsApp Video 2020-05-29 at 9",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1590780734634458:1870",
+                        "fileId": "3",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "D:\/DOWNLOADS\/WhatsApp Video 2020-05-29 at 9.41.29 PM",
+                        "additional": ""
+                    },
+                    {
+                        "name": "ezgif",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1590781380502905:3386",
+                        "fileId": "4",
+                        "originalId": "5",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1590781436302022:4894",
+                        "fileId": "6",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/Scripting\/BehaviorScript.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "XXXTentacion - Moonlight 🎵",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1590781769001317:9641",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "6",
+                        "source": "D:\/DOWNLOADS\/XXXTentacion - Moonlight 🎵.mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Retro Game",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1590782031860185:19392",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "7",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/RetroGame.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Beauty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1590782052556748:20709",
+                        "fileId": "10",
+                        "originalId": "11",
+                        "publicId": "8",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Beauty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "ezgif 2",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1590782338891840:22719",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "9",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1590781436302022:4894",
+                        "path_list": [
+                            "Behavior"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

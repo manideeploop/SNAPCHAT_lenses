@@ -1,0 +1,1832 @@
+{
+    "lens_id": "a0b935e8-6ced-4805-bcfc-d135dbbef134",
+    "document_id": "z55lCPkEpVcK5ZQF5k3n",
+    "original_document_id": "ry85D7U2fELjkei1Is7h",
+    "version": "23",
+    "lastChanged": "1590681497149",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "10190_Mango-L3"
+                    ],
+                    [
+                        "10190_Mango-L3",
+                        "10190_Mango-L3"
+                    ],
+                    [
+                        "10190_Mango-L3",
+                        "Animations"
+                    ],
+                    [
+                        "10190_Mango-L3",
+                        "Materials"
+                    ],
+                    [
+                        "10190_Mango-L3",
+                        "Materials",
+                        "blinn1SG"
+                    ],
+                    [
+                        "10190_Mango-L3",
+                        "Meshes"
+                    ],
+                    [
+                        "10190_Mango-L3",
+                        "Meshes",
+                        "Mango2"
+                    ],
+                    [
+                        "10190_Mango-L3 2"
+                    ],
+                    [
+                        "10190_Mango_L3"
+                    ],
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Code"
+                    ],
+                    [
+                        "DancingScript"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Gold"
+                    ],
+                    [
+                        "Mango"
+                    ],
+                    [
+                        "MangoC"
+                    ],
+                    [
+                        "MangoC 2"
+                    ],
+                    [
+                        "Strawberry"
+                    ],
+                    [
+                        "Strawberry 2"
+                    ],
+                    [
+                        "Strawberry-L3"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Animations"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Materials"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Materials",
+                        "blinn1SG"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Meshes"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Meshes",
+                        "Leaf"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Meshes",
+                        "Starwberry"
+                    ],
+                    [
+                        "Strawberry-L3",
+                        "Strawberry-L3"
+                    ],
+                    [
+                        "Strawberry-L3 2"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "gradient_y_red"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "download"
+                    ],
+                    [
+                        "download (1)"
+                    ],
+                    [
+                        "ifa"
+                    ],
+                    [
+                        "images"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1590590797490577:8806"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "78eb508534b41a540ce0b9c526cf9d88",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_voice_changer"
+            ],
+            "lens": "starwberry face",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1590222160518029:6977",
+                    "1590590797490968:8807"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1590222240474872:7382",
+                    "name": "Files\/File4.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1590222287629208:7880",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1590222314789350:8321",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1590223523099020:27923",
+                    "name": "Files\/File39",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1590226754747072:36727",
+                    "name": "Files\/File45.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1590226754838923:36739",
+                    "name": "Files\/File47.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1590590334984554:3990",
+                    "name": "Files\/File49.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1590590396699009:4328",
+                    "name": "Files\/File50.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1590590396726553:4338",
+                    "name": "Files\/File51",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1590590396959435:4353",
+                    "name": "Files\/File53.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1590590397335686:4422",
+                    "name": "10190_Mango-L3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1590590398565601:4739",
+                    "name": "Files\/File57.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1590590399735103:5064",
+                    "name": "Files\/File60.mtl",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1590590731345759:7907",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1590591458437656:18103",
+                    "name": "Files\/File68.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1590591458464647:18117",
+                    "name": "Files\/File69.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1590591458486891:18127",
+                    "name": "Files\/File70",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1590591458640602:18142",
+                    "name": "Files\/File72.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1590591458691068:18184",
+                    "name": "Strawberry-L3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1590591459514247:18638",
+                    "name": "Files\/File76.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1590591460607474:19094",
+                    "name": "Files\/File79.mtl",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1590591717162799:25653",
+                    "name": "Files\/File80.jfif",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1590591818388259:26923",
+                    "name": "Files\/File81.jfif",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1590591927467110:30404",
+                    "name": "Files\/File82.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1590593575521642:36899",
+                    "name": "Files\/File84.jfif",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1590593863521612:44899",
+                    "name": "Files\/File85.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1590222688658721:11851",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1590222688688490:11985",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1590593810961725:41592",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1590222160517616:6976",
+                "4": "1590222160518029:6977",
+                "5": "1590222160525166:6997",
+                "6": "1590222688644542:11784",
+                "7": "1590222688657901:11849",
+                "8": "1590222688688342:11984",
+                "9": "1590223885552609:34171",
+                "10": "1590224047150222:35973",
+                "11": "1590590797490577:8806",
+                "12": "1590590797490968:8807",
+                "13": "1590590802698098:10214",
+                "14": "1590590811466665:12183",
+                "15": "1590593810921543:41456",
+                "16": "1590593810961507:41591"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "4",
+                    "v": "Files\/File4.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.gif"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.png"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.png"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.mesh"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.jpg"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.jpg"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.oprfb"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.obj"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.jpg"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.jpg"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.oprfb"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.mtl"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.jpg"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.jpg"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.mesh"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.mesh"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.lsmat"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.jpg"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.jpg"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.oprfb"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.obj"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.jpg"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.jpg"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.oprfb"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.mtl"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.jfif"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.jfif"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.jpg"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.jpg"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.jfif"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.ttf"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "9",
+                        "v": "Box.mesh"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Gold.lsmat"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Code.gif"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Textures\/gradient_y_red.png"
+                    },
+                    {
+                        "k": "35",
+                        "v": "10190_Mango_L3"
+                    },
+                    {
+                        "k": "36",
+                        "v": "MangoC.jpg"
+                    },
+                    {
+                        "k": "37",
+                        "v": "10190_Mango-L3.obj"
+                    },
+                    {
+                        "k": "38",
+                        "v": "..\/AdditionalFiles\/10190_Mango-L3\/Materials"
+                    },
+                    {
+                        "k": "39",
+                        "v": "..\/AdditionalFiles\/10190_Mango-L3\/Materials\/blinn1SG.lsmat"
+                    },
+                    {
+                        "k": "40",
+                        "v": "MangoC 2.jpg"
+                    },
+                    {
+                        "k": "41",
+                        "v": "10190_Mango-L3 2.mtl"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Mango.jpg"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Strawberry.jpg"
+                    },
+                    {
+                        "k": "46",
+                        "v": "Strawberry-L3.obj"
+                    },
+                    {
+                        "k": "47",
+                        "v": "..\/AdditionalFiles\/Strawberry-L3\/Materials"
+                    },
+                    {
+                        "k": "48",
+                        "v": "..\/AdditionalFiles\/Strawberry-L3\/Materials\/blinn1SG.lsmat"
+                    },
+                    {
+                        "k": "50",
+                        "v": "Strawberry-L3 2.mtl"
+                    },
+                    {
+                        "k": "51",
+                        "v": "download.jfif"
+                    },
+                    {
+                        "k": "52",
+                        "v": "images.jfif"
+                    },
+                    {
+                        "k": "53",
+                        "v": "ifa.jpg"
+                    },
+                    {
+                        "k": "54",
+                        "v": "Strawberry 2.jpg"
+                    },
+                    {
+                        "k": "55",
+                        "v": "download (1).jfif"
+                    },
+                    {
+                        "k": "56",
+                        "v": "DancingScript.ttf"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "8",
+                        "v": "1b44791337f41ca4e6b226c67bd8c574"
+                    },
+                    {
+                        "k": "9",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "10",
+                        "v": "c149fbae0b35509962e4bac4d741e9ad"
+                    },
+                    {
+                        "k": "12",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "13",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "14",
+                        "v": "1ce9c146ecb9a5d8d49177c6a6514078"
+                    },
+                    {
+                        "k": "15",
+                        "v": "3c065828b2285800cf588c4f9dacd9cd"
+                    },
+                    {
+                        "k": "16",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "17",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "18",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "19",
+                        "v": "844e1085d48ef6cb7eb7ef6b3520fab1"
+                    },
+                    {
+                        "k": "20",
+                        "v": "4857f3f1e10f64366e48c2d07d3a76c9"
+                    },
+                    {
+                        "k": "21",
+                        "v": "8c4a2bda1849ca2ecde592bfcbfed6fd"
+                    },
+                    {
+                        "k": "22",
+                        "v": "689ddaa732221660219156f73acc1916"
+                    },
+                    {
+                        "k": "23",
+                        "v": "49a307753ad9a72090ae1ac6cd800f67"
+                    },
+                    {
+                        "k": "24",
+                        "v": "21cf715e922ca8d36dc022e2120a30ae"
+                    },
+                    {
+                        "k": "25",
+                        "v": "a380f1fa38e932680f35bd6880723fd0"
+                    },
+                    {
+                        "k": "26",
+                        "v": "0dadbaf7d689251923261e9c2b5ba933"
+                    },
+                    {
+                        "k": "27",
+                        "v": "fbd4423f4fc74b5789830c3b5a42d217"
+                    },
+                    {
+                        "k": "28",
+                        "v": "426a7084ee75ec8402b235ca751f57de"
+                    },
+                    {
+                        "k": "29",
+                        "v": "856a986897ed8207d9284074ca8f2f68"
+                    },
+                    {
+                        "k": "30",
+                        "v": "6168bc7215a82599ca49bf43ff567387"
+                    },
+                    {
+                        "k": "32",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "33",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "34",
+                        "v": "d977af5e5b427d9e690f7707f2156ffa"
+                    },
+                    {
+                        "k": "35",
+                        "v": "c3b2136f95426d695b3b7a7434aa2723"
+                    },
+                    {
+                        "k": "36",
+                        "v": "d27e697a2d44b4af3a9be88288ca3a1c"
+                    },
+                    {
+                        "k": "37",
+                        "v": "b451156f5b76ad2ef905fc6641ab82e3"
+                    },
+                    {
+                        "k": "39",
+                        "v": "4647b9e770a92f1a693468fb529629a7"
+                    },
+                    {
+                        "k": "40",
+                        "v": "d27e697a2d44b4af3a9be88288ca3a1c"
+                    },
+                    {
+                        "k": "41",
+                        "v": "654bfeb5da1e8633998065f13dc5db93"
+                    },
+                    {
+                        "k": "42",
+                        "v": "d27e697a2d44b4af3a9be88288ca3a1c"
+                    },
+                    {
+                        "k": "43",
+                        "v": "d27e697a2d44b4af3a9be88288ca3a1c"
+                    },
+                    {
+                        "k": "44",
+                        "v": "e37b24ac0ebd5ef93f7e750a50ce9215"
+                    },
+                    {
+                        "k": "45",
+                        "v": "8c1610d39ff6f2264ca1df0f028f078d"
+                    },
+                    {
+                        "k": "46",
+                        "v": "1fa0126ba529f68208a00c386705a00c"
+                    },
+                    {
+                        "k": "48",
+                        "v": "c3ccf895f8e298ceae634b50a117b651"
+                    },
+                    {
+                        "k": "49",
+                        "v": "8c1610d39ff6f2264ca1df0f028f078d"
+                    },
+                    {
+                        "k": "50",
+                        "v": "e3ea460b32d47043b103caec63731354"
+                    },
+                    {
+                        "k": "51",
+                        "v": "dcaaeb025e7361b4e96527eaf9216cc2"
+                    },
+                    {
+                        "k": "52",
+                        "v": "e3d47ed81e71f3b2a6b932696b1b75a0"
+                    },
+                    {
+                        "k": "53",
+                        "v": "2837231dc6c2d8e94e7f2f124c28ad6e"
+                    },
+                    {
+                        "k": "54",
+                        "v": "8c1610d39ff6f2264ca1df0f028f078d"
+                    },
+                    {
+                        "k": "55",
+                        "v": "0a6f0473be1a42823cfa68ae66fafaf4"
+                    },
+                    {
+                        "k": "56",
+                        "v": "78132c6450403faefc3f440b2bb3b24a"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-27T21:07:43",
+                        "name": "Public",
+                        "hash": "e2b14bf74bd802a7651a740659b4e60b",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-22T16:09:28",
+                                "name": "10190_Mango-L3 2.mtl",
+                                "hash": "654bfeb5da1e8633998065f13dc5db93",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-22T16:09:28",
+                                "name": "10190_Mango-L3.obj",
+                                "hash": "b451156f5b76ad2ef905fc6641ab82e3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-27T20:08:55",
+                                "name": "10190_Mango_L3",
+                                "hash": "c3b2136f95426d695b3b7a7434aa2723",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2011-04-22T16:09:28",
+                                        "name": "10190_Mango-L3.mtl",
+                                        "hash": "654bfeb5da1e8633998065f13dc5db93",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2011-04-22T16:09:28",
+                                        "name": "10190_Mango-L3.obj",
+                                        "hash": "b451156f5b76ad2ef905fc6641ab82e3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2011-04-19T20:03:40",
+                                        "name": "MangoC.JPG",
+                                        "hash": "d27e697a2d44b4af3a9be88288ca3a1c",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-23T13:54:00",
+                                "name": "Box.mesh",
+                                "hash": "0f22bac28f4bb7f9303722acb5d035e0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-13T14:57:47",
+                                "name": "Code.gif",
+                                "hash": "856a986897ed8207d9284074ca8f2f68",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "DancingScript.ttf",
+                                "hash": "78132c6450403faefc3f440b2bb3b24a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T21:02:52",
+                                "name": "download (1).jfif",
+                                "hash": "0a6f0473be1a42823cfa68ae66fafaf4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T20:31:54",
+                                "name": "download.jfif",
+                                "hash": "dcaaeb025e7361b4e96527eaf9216cc2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T20:28:11",
+                                "name": "Gold.lsmat",
+                                "hash": "3c065828b2285800cf588c4f9dacd9cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T20:35:23",
+                                "name": "ifa.jpg",
+                                "hash": "2837231dc6c2d8e94e7f2f124c28ad6e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T20:33:17",
+                                "name": "images.jfif",
+                                "hash": "e3d47ed81e71f3b2a6b932696b1b75a0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-27T20:15:24",
+                                "name": "Mango.jpg",
+                                "hash": "e37b24ac0ebd5ef93f7e750a50ce9215",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-19T20:03:40",
+                                "name": "MangoC 2.jpg",
+                                "hash": "d27e697a2d44b4af3a9be88288ca3a1c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-19T20:03:40",
+                                "name": "MangoC.jpg",
+                                "hash": "d27e697a2d44b4af3a9be88288ca3a1c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-20T17:18:08",
+                                "name": "Strawberry 2.jpg",
+                                "hash": "8c1610d39ff6f2264ca1df0f028f078d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-26T14:49:30",
+                                "name": "Strawberry-L3 2.mtl",
+                                "hash": "e3ea460b32d47043b103caec63731354",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-26T14:49:30",
+                                "name": "Strawberry-L3.obj",
+                                "hash": "1fa0126ba529f68208a00c386705a00c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2011-04-20T17:18:08",
+                                "name": "Strawberry.jpg",
+                                "hash": "8c1610d39ff6f2264ca1df0f028f078d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-23T15:24:40",
+                                "name": "Textures",
+                                "hash": "862c8b76c355983e2c9c2dbaa2371d4f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-23T15:09:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-23T15:09:14",
+                                        "name": "gradient_y_red.png",
+                                        "hash": "46d2574129d7e76351d16c610d00b255",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-23T15:09:14",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "35"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Box",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1590222240474872:7382",
+                        "fileId": "4",
+                        "originalId": "18446744073709551615",
+                        "publicId": "9",
+                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-Yefhwb\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1590222287629208:7880",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Gold",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1590222314789350:8321",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "15",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Code",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "uid": "1590223523099020:27923",
+                        "fileId": "39",
+                        "originalId": "40",
+                        "publicId": "29",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "31",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "uid": "1590226754747072:36727",
+                                "fileId": "45",
+                                "originalId": "46",
+                                "publicId": "32",
+                                "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-Yefhwb\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "gradient_y_red",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "uid": "1590226754838923:36739",
+                                "fileId": "47",
+                                "originalId": "48",
+                                "publicId": "33",
+                                "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-Yefhwb\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "10190_Mango_L3",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "36",
+                        "dependency": "0",
+                        "uid": "1590590334984554:3990",
+                        "fileId": "49",
+                        "originalId": "18446744073709551615",
+                        "publicId": "35",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93",
+                        "additional": ""
+                    },
+                    {
+                        "name": "MangoC",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "uid": "1590590396959435:4353",
+                        "fileId": "53",
+                        "originalId": "54",
+                        "publicId": "36",
+                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-TwYawj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "10190_Mango-L3",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "56",
+                        "originalId": "18446744073709551615",
+                        "publicId": "37",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/10190_Mango-L3.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "blinn1SG",
+                                    "v": "1590590396726553:4338"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Mango2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "1",
+                                        "uid": "1590590396699009:4328",
+                                        "fileId": "50",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-TwYawj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "38",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "blinn1SG",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "uid": "1590590396726553:4338",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "39",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "10190_Mango-L3",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "40",
+                                "dependency": "1",
+                                "uid": "1590590397335686:4422",
+                                "fileId": "55",
+                                "originalId": "59",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MangoC 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1590590398565601:4739",
+                        "fileId": "57",
+                        "originalId": "58",
+                        "publicId": "40",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/MangoC.JPG",
+                        "additional": ""
+                    },
+                    {
+                        "name": "10190_Mango-L3 2",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "42",
+                        "dependency": "0",
+                        "uid": "1590590399735103:5064",
+                        "fileId": "60",
+                        "originalId": "18446744073709551615",
+                        "publicId": "41",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/10190_Mango-L3.mtl",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Mango",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "45",
+                        "dependency": "0",
+                        "uid": "1590590731345759:7907",
+                        "fileId": "66",
+                        "originalId": "67",
+                        "publicId": "44",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/Mango.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Strawberry",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "49",
+                        "dependency": "0",
+                        "uid": "1590591458640602:18142",
+                        "fileId": "72",
+                        "originalId": "73",
+                        "publicId": "45",
+                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-TwYawj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Strawberry-L3",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "75",
+                        "originalId": "18446744073709551615",
+                        "publicId": "46",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/Strawberry_L3.123c82e91b99-8da2-415f-a00b-a5daceb88500\/Strawberry-L3.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "blinn1SG",
+                                    "v": "1590591458486891:18127"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Leaf",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "46",
+                                        "dependency": "1",
+                                        "uid": "1590591458437656:18103",
+                                        "fileId": "68",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-TwYawj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Starwberry",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "47",
+                                        "dependency": "1",
+                                        "uid": "1590591458464647:18117",
+                                        "fileId": "69",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-TwYawj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "47",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "blinn1SG",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "48",
+                                        "dependency": "0",
+                                        "uid": "1590591458486891:18127",
+                                        "fileId": "70",
+                                        "originalId": "71",
+                                        "publicId": "48",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Strawberry-L3",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "50",
+                                "dependency": "1",
+                                "uid": "1590591458691068:18184",
+                                "fileId": "74",
+                                "originalId": "78",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Strawberry-L3 2",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "52",
+                        "dependency": "0",
+                        "uid": "1590591460607474:19094",
+                        "fileId": "79",
+                        "originalId": "18446744073709551615",
+                        "publicId": "50",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/Strawberry_L3.123c82e91b99-8da2-415f-a00b-a5daceb88500\/Strawberry-L3.mtl",
+                        "additional": ""
+                    },
+                    {
+                        "name": "download",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "53",
+                        "dependency": "0",
+                        "uid": "1590591717162799:25653",
+                        "fileId": "80",
+                        "originalId": "18446744073709551615",
+                        "publicId": "51",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/download.jfif",
+                        "additional": ""
+                    },
+                    {
+                        "name": "images",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "54",
+                        "dependency": "0",
+                        "uid": "1590591818388259:26923",
+                        "fileId": "81",
+                        "originalId": "18446744073709551615",
+                        "publicId": "52",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/images.jfif",
+                        "additional": ""
+                    },
+                    {
+                        "name": "ifa",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "55",
+                        "dependency": "0",
+                        "uid": "1590591927467110:30404",
+                        "fileId": "82",
+                        "originalId": "83",
+                        "publicId": "53",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/ifa.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Strawberry 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "51",
+                        "dependency": "0",
+                        "uid": "1590591459514247:18638",
+                        "fileId": "76",
+                        "originalId": "77",
+                        "publicId": "54",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/Strawberry_L3.123c82e91b99-8da2-415f-a00b-a5daceb88500\/Strawberry.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "download (1)",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "56",
+                        "dependency": "0",
+                        "uid": "1590593575521642:36899",
+                        "fileId": "84",
+                        "originalId": "18446744073709551615",
+                        "publicId": "55",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/10190_Mango_L3.123ca11fb3e2-a4dd-4d51-8d3d-d992f023ee93\/download (1).jfif",
+                        "additional": ""
+                    },
+                    {
+                        "name": "DancingScript",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "57",
+                        "dependency": "0",
+                        "uid": "1590593863521612:44899",
+                        "fileId": "85",
+                        "originalId": "18446744073709551615",
+                        "publicId": "56",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Fonts\/DancingScript-Regular.ttf",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1590590797490577:8806"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1590590397335686:4422",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1590590397010866:4365"
+                        },
+                        {
+                            "k": [
+                                "Mango2"
+                            ],
+                            "v": "1590590397011720:4367"
+                        },
+                        {
+                            "k": [
+                                "Mango2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1590590397012513:4369"
+                        }
+                    ]
+                },
+                {
+                    "k": "1590591458691068:18184",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1590591458685702:18154"
+                        },
+                        {
+                            "k": [
+                                "Leaf"
+                            ],
+                            "v": "1590591458686589:18156"
+                        },
+                        {
+                            "k": [
+                                "Leaf",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1590591458687280:18158"
+                        },
+                        {
+                            "k": [
+                                "Starwberry"
+                            ],
+                            "v": "1590591458688787:18170"
+                        },
+                        {
+                            "k": [
+                                "Starwberry",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1590591458689470:18172"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

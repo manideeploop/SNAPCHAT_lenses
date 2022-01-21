@@ -1,0 +1,1741 @@
+{
+    "lens_id": "428c94a4-8401-4bf6-a821-ffeaa3239360",
+    "document_id": "AluAjSP0-W7lOHMzoY-j",
+    "original_document_id": "AluAjSP0-W7lOHMzoY-j",
+    "version": "23",
+    "lastChanged": "1588956571523",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "All Yellow"
+                    ],
+                    [
+                        "Beauty"
+                    ],
+                    [
+                        "Blue Orange"
+                    ],
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Default Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Default Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Default Textures",
+                        "Render Target"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Default Textures",
+                        "empty"
+                    ],
+                    [
+                        "Default Textures",
+                        "white"
+                    ],
+                    [
+                        "Dp World Lacasadepapel Sticker by DP World Santos"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "heart"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "old_paper_post_effect"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "space_background"
+                    ],
+                    [
+                        "Face Eyes Sticker by Abstrusa"
+                    ],
+                    [
+                        "Face Image Picker"
+                    ],
+                    [
+                        "La Casa De Papel Sticker by Shoestique"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "BackgroundMat"
+                    ],
+                    [
+                        "Materials",
+                        "FillMat"
+                    ],
+                    [
+                        "Materials",
+                        "TileMat"
+                    ],
+                    [
+                        "Materials",
+                        "TileScrollingMat"
+                    ],
+                    [
+                        "Miami"
+                    ],
+                    [
+                        "People Stuttgart Sticker by Hochburg"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "SegmentationController"
+                    ],
+                    [
+                        "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "animation"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1534788990696967:152078",
+                    "1535646970796949:39027",
+                    "1536701119471735:10008",
+                    "1536862674133465:250556"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "42c600adde0338d8942cb49d5c922388",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "moneyheist",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 2.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1535646852378068:26367",
+                    "1535646895691475:34049",
+                    "1535647365001278:49935",
+                    "1538416820229899:10396",
+                    "1586373950789488:79387",
+                    "1586373990619112:81372",
+                    "1586374006933084:82209",
+                    "1586374016842579:83482",
+                    "1586374148107524:87558",
+                    "1586374192481407:89544",
+                    "1586374366802839:94958"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1534543033794497:2027",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1534543284768020:20801",
+                    "name": "\/Resources\/Resource22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1534548413451520:38273",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1536692380004191:12977",
+                    "name": "\/Resources\/Resource76.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1536693201317919:71139",
+                    "name": "\/Resources\/Resource81.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1536693201320484:71151",
+                    "name": "\/Resources\/Resource82.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1536693201323863:71163",
+                    "name": "\/Resources\/Resource83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1536694566851597:18126",
+                    "name": "\/Resources\/Resource93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1536866643977081:319832",
+                    "name": "\/Resources\/Resource132.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1539126337825344:3581",
+                    "name": "\/Resources\/Resource157",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "158",
+                    "uid": "1539126341853514:3608",
+                    "name": "\/Resources\/Resource158",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1539126346682103:3631",
+                    "name": "\/Resources\/Resource159",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1539126348212916:3665",
+                    "name": "\/Resources\/Resource160",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "161",
+                    "uid": "1564444797948882:5329",
+                    "name": "Files\/File20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "162",
+                    "uid": "1571785356605059:504223",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1586373772465890:23790",
+                    "name": "Face Image Picker",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "166",
+                    "uid": "1586373783713355:24138",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1586373950772629:79377",
+                    "name": "Files\/File32",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1586374148092914:87548",
+                    "name": "Files\/File34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "169",
+                    "uid": "1586374192464788:89534",
+                    "name": "Files\/File36",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1586374366785827:94948",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1588955740762491:12399",
+                    "name": "Files\/File40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1588955764455749:12924",
+                    "name": "Files\/File42.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1588955913396289:19041",
+                    "name": "Files\/File44.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1588955927853211:20766",
+                    "name": "Files\/File46.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": [
+                        {
+                            "k": "1586373990619813:81373",
+                            "v": {
+                                "eyeColorInfo": {
+                                    "textureUid": "-1:-1",
+                                    "mode": "0",
+                                    "color": {
+                                        "x": "0.200000003",
+                                        "y": "0.699999988",
+                                        "z": "0.5",
+                                        "w": "0.300000012"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553532199828098:37383",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553532199852613:37646",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553532228676220:51624",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1534543033789355:1942",
+                "4": "1534543296305691:21549",
+                "5": "1534788990696967:152078",
+                "6": "1535646970796949:39027",
+                "7": "1536701119471735:10008",
+                "8": "1536701119471971:10011",
+                "9": "1536701811084472:40910",
+                "10": "1538416820229714:10393",
+                "11": "1538416820229899:10396",
+                "12": "1553532199827453:37377",
+                "13": "1553532199852441:37643",
+                "14": "1553532228652184:51235",
+                "15": "1586373950789172:79386",
+                "16": "1586373950789488:79387",
+                "17": "1586373968157206:80860",
+                "18": "1586373990619112:81372",
+                "19": "1586374016842579:83482",
+                "20": "1586374148107149:87557",
+                "21": "1586374148107524:87558",
+                "22": "1586374192480939:89543",
+                "23": "1586374192481407:89544",
+                "24": "1586374366802444:94957",
+                "25": "1586374366802839:94958",
+                "26": "1588955912703307:18996",
+                "27": "1588955927490506:20721"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Masked",
+                    "layerMask": "4",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Orthographic Masked",
+                    "layerMask": "2",
+                    "colorCode": "1"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.gif"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.gif"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.gif"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.gif"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Example Textures [REMOVE_ME]"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Example Textures [REMOVE_ME]\/space_background.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Example Textures [REMOVE_ME]\/heart.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Materials\/TileMat.lsmat"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Materials\/TileScrollingMat.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Materials\/FillMat.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Materials\/BackgroundMat.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Default Textures"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Default Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Default Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Default Textures\/empty.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Default Textures\/Base.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Default Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Default Textures\/Normal.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Default Textures\/white.png"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Scripts\/SegmentationController.js"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Example Textures [REMOVE_ME]\/old_paper_post_effect.png"
+                    },
+                    {
+                        "k": "23",
+                        "v": "animation"
+                    },
+                    {
+                        "k": "24",
+                        "v": "People Stuttgart Sticker by Hochburg.gif"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Dp World Lacasadepapel Sticker by DP World Santos.gif"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Face Eyes Sticker by Abstrusa.gif"
+                    },
+                    {
+                        "k": "27",
+                        "v": "La Casa De Papel Sticker by Shoestique.gif"
+                    },
+                    {
+                        "k": "28",
+                        "v": "All Yellow.png"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Miami.png"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Blue Orange.png"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Beauty.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "87daba2e83cda8b89532e73ab3b19542"
+                    },
+                    {
+                        "k": "3",
+                        "v": "8deedada4978953cc405f26856dd0594"
+                    },
+                    {
+                        "k": "4",
+                        "v": "6710d4920c2779d69d1ed688105767f7"
+                    },
+                    {
+                        "k": "6",
+                        "v": "aabafbbafbb31f08a130b1ea1a68a0b0"
+                    },
+                    {
+                        "k": "7",
+                        "v": "2278b19abc93ab72b510b62ef4da0b36"
+                    },
+                    {
+                        "k": "8",
+                        "v": "832426d5c96e9c869cf683ff1014388b"
+                    },
+                    {
+                        "k": "9",
+                        "v": "bdd2de6b3e871ae3247a82ee26bfcbd5"
+                    },
+                    {
+                        "k": "11",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "12",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "13",
+                        "v": "33a67d34b6807e8d7cbd43a3d1930f5e"
+                    },
+                    {
+                        "k": "14",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "15",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "16",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "17",
+                        "v": "960a06e2a80d46091b8215f96b633951"
+                    },
+                    {
+                        "k": "19",
+                        "v": "bdf5de95e84ea35f0830c0815025b763"
+                    },
+                    {
+                        "k": "21",
+                        "v": "3acd9c68c33b25e370568c8e3ca488c7"
+                    },
+                    {
+                        "k": "22",
+                        "v": "6b2e39eaf98209a89ed0a4b1077e859b"
+                    },
+                    {
+                        "k": "23",
+                        "v": "6b2e39eaf98209a89ed0a4b1077e859b"
+                    },
+                    {
+                        "k": "24",
+                        "v": "ddf3a83305789a3ff0501cc105d45e65"
+                    },
+                    {
+                        "k": "25",
+                        "v": "817c7055dbbcda01308f540051a36789"
+                    },
+                    {
+                        "k": "26",
+                        "v": "1f9768338d9ede41d2e6889879976ad3"
+                    },
+                    {
+                        "k": "27",
+                        "v": "e52cdd272c66a70780c676064829df3c"
+                    },
+                    {
+                        "k": "28",
+                        "v": "f3848123b958181a8f5b40ebf82d0ea0"
+                    },
+                    {
+                        "k": "29",
+                        "v": "3c59a7cfbe569d140c48778737513d0c"
+                    },
+                    {
+                        "k": "30",
+                        "v": "17fc5cc4bb9546556de454172f9dc9ae"
+                    },
+                    {
+                        "k": "31",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-08T22:08:47",
+                        "name": "Public",
+                        "hash": "f426c0a7ded6758eae35c9519f589b0d",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "All Yellow.png",
+                                "hash": "f3848123b958181a8f5b40ebf82d0ea0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T01:09:19",
+                                "name": "animation",
+                                "hash": "6b2e39eaf98209a89ed0a4b1077e859b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-09T00:53:03",
+                                        "name": "animation.t3d",
+                                        "hash": "d4e2038191e27813a9c8711420db38a5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-09T00:53:03",
+                                        "name": "atlas_0.jpg",
+                                        "hash": "3aec493d64fccbb32f226d0201e3ee17",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Beauty.png",
+                                "hash": "a276acaed7d65e4c1b56181771677a77",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Blue Orange.png",
+                                "hash": "17fc5cc4bb9546556de454172f9dc9ae",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T01:09:19",
+                                "name": "Default Textures",
+                                "hash": "76f03cc87c33512dbab8bb5f9e84d0ef",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "empty.png",
+                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "white.png",
+                                        "hash": "960a06e2a80d46091b8215f96b633951",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T00:59:07",
+                                "name": "Dp World Lacasadepapel Sticker by DP World Santos.gif",
+                                "hash": "817c7055dbbcda01308f540051a36789",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T01:09:19",
+                                "name": "Example Textures [REMOVE_ME]",
+                                "hash": "f3e5d602801dea60a3e10f15a726b738",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "heart.png",
+                                        "hash": "6710d4920c2779d69d1ed688105767f7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "old_paper_post_effect.png",
+                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "space_background.png",
+                                        "hash": "87daba2e83cda8b89532e73ab3b19542",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T00:59:52",
+                                "name": "Face Eyes Sticker by Abstrusa.gif",
+                                "hash": "1f9768338d9ede41d2e6889879976ad3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:24",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T01:02:46",
+                                "name": "La Casa De Papel Sticker by Shoestique.gif",
+                                "hash": "e52cdd272c66a70780c676064829df3c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T01:09:19",
+                                "name": "Materials",
+                                "hash": "071e32ba7fda2ebaf243bd764c853750",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "BackgroundMat.lsmat",
+                                        "hash": "bdd2de6b3e871ae3247a82ee26bfcbd5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "FillMat.lsmat",
+                                        "hash": "832426d5c96e9c869cf683ff1014388b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "TileMat.lsmat",
+                                        "hash": "aabafbbafbb31f08a130b1ea1a68a0b0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "TileScrollingMat.lsmat",
+                                        "hash": "2278b19abc93ab72b510b62ef4da0b36",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Miami.png",
+                                "hash": "3c59a7cfbe569d140c48778737513d0c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T00:55:50",
+                                "name": "People Stuttgart Sticker by Hochburg.gif",
+                                "hash": "ddf3a83305789a3ff0501cc105d45e65",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T01:09:19",
+                                "name": "Scripts",
+                                "hash": "840e00e972259a2296fe27c86d8f3b8d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:24",
+                                        "name": "SegmentationController.js",
+                                        "hash": "bdf5de95e84ea35f0830c0815025b763",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "23"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Example Textures [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "space_background",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "uid": "1536692380004191:12977",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "heart",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "93",
+                                "dependency": "0",
+                                "uid": "1536694566851597:18126",
+                                "fileId": "10",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "old_paper_post_effect",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "161",
+                                "dependency": "0",
+                                "uid": "1564444797948882:5329",
+                                "fileId": "20",
+                                "originalId": "18446744073709551615",
+                                "publicId": "21",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TileMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "157",
+                                "dependency": "0",
+                                "uid": "1539126337825344:3581",
+                                "fileId": "12",
+                                "originalId": "26",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TileScrollingMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "158",
+                                "dependency": "0",
+                                "uid": "1539126341853514:3608",
+                                "fileId": "13",
+                                "originalId": "27",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FillMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "159",
+                                "dependency": "0",
+                                "uid": "1539126346682103:3631",
+                                "fileId": "14",
+                                "originalId": "28",
+                                "publicId": "8",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "BackgroundMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "160",
+                                "dependency": "0",
+                                "uid": "1539126348212916:3665",
+                                "fileId": "15",
+                                "originalId": "29",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Default Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "10",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "8",
+                                "dependency": "0",
+                                "uid": "1517446348230286:84828",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1517446348234137:84840",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1534543033794497:2027",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "empty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "uid": "1534548413451520:38273",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "81",
+                                "dependency": "0",
+                                "uid": "1536693201317919:71139",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "82",
+                                "dependency": "0",
+                                "uid": "1536693201320484:71151",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "15",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "83",
+                                "dependency": "0",
+                                "uid": "1536693201323863:71163",
+                                "fileId": "9",
+                                "originalId": "18446744073709551615",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "132",
+                                "dependency": "0",
+                                "uid": "1536866643977081:319832",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "SegmentationController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1534543284768020:20801",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "19",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Segmentation Texture [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "162",
+                        "dependency": "0",
+                        "uid": "1571785356605059:504223",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Image Picker",
+                        "type": "1",
+                        "subtype": "13",
+                        "resourceId": "165",
+                        "dependency": "0",
+                        "uid": "1586373772465890:23790",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "animation",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "166",
+                        "dependency": "0",
+                        "uid": "1586373783713355:24138",
+                        "fileId": "31",
+                        "originalId": "18446744073709551615",
+                        "publicId": "23",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "People Stuttgart Sticker by Hochburg",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "167",
+                        "dependency": "0",
+                        "uid": "1586373950772629:79377",
+                        "fileId": "32",
+                        "originalId": "33",
+                        "publicId": "24",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "Dp World Lacasadepapel Sticker by DP World Santos",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "168",
+                        "dependency": "0",
+                        "uid": "1586374148092914:87548",
+                        "fileId": "34",
+                        "originalId": "35",
+                        "publicId": "25",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "Face Eyes Sticker by Abstrusa",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "169",
+                        "dependency": "0",
+                        "uid": "1586374192464788:89534",
+                        "fileId": "36",
+                        "originalId": "37",
+                        "publicId": "26",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "La Casa De Papel Sticker by Shoestique",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "170",
+                        "dependency": "0",
+                        "uid": "1586374366785827:94948",
+                        "fileId": "38",
+                        "originalId": "39",
+                        "publicId": "27",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "All Yellow",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "171",
+                        "dependency": "0",
+                        "uid": "1588955740762491:12399",
+                        "fileId": "40",
+                        "originalId": "41",
+                        "publicId": "28",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/AllYellow.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Miami",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "172",
+                        "dependency": "0",
+                        "uid": "1588955764455749:12924",
+                        "fileId": "42",
+                        "originalId": "43",
+                        "publicId": "29",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Miami.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Blue Orange",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "173",
+                        "dependency": "0",
+                        "uid": "1588955913396289:19041",
+                        "fileId": "44",
+                        "originalId": "45",
+                        "publicId": "30",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BlueOrange.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Beauty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "174",
+                        "dependency": "0",
+                        "uid": "1588955927853211:20766",
+                        "fileId": "46",
+                        "originalId": "47",
+                        "publicId": "31",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Beauty.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1588955927490506:20721"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

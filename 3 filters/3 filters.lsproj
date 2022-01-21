@@ -1,0 +1,2052 @@
+{
+    "lens_id": "938f062b-ff04-4451-aa91-8038036dfa6a",
+    "document_id": "T5sLZVi1R4Z6zAlwTRtV",
+    "original_document_id": "TsYa7c2ZltF8ty82UIyJ",
+    "version": "24",
+    "lastChanged": "1592132138888",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "2020-05-01 10"
+                    ],
+                    [
+                        "BW"
+                    ],
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Empty"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Analog TV"
+                    ],
+                    [
+                        "Materials",
+                        "Circle_Button_Cyan"
+                    ],
+                    [
+                        "Materials",
+                        "Circle_Button_Magenta"
+                    ],
+                    [
+                        "Materials",
+                        "Circle_Button_Yellow"
+                    ],
+                    [
+                        "Materials",
+                        "Dithering"
+                    ],
+                    [
+                        "Materials",
+                        "VHS"
+                    ],
+                    [
+                        "Old Paper"
+                    ],
+                    [
+                        "Screen Texture"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Circle"
+                    ],
+                    [
+                        "Textures",
+                        "Holder"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard [DEPRECATED]"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "animation"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (4)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (5)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (6)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (7)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (8)"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (9)"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "1725ce1230f6f1cc290f3e9510f9cc79",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "3 FILTERS UI",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1572642155339369:9283",
+                    "1572642155356072:9490",
+                    "1572642614307628:92924",
+                    "1572642677485193:115341",
+                    "1572642721643282:133182",
+                    "1572642794583102:163211"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1572642144280673:2278",
+                    "name": "Files\/File3.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1572642280633908:26492",
+                    "name": "Files\/File5.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1572642337627379:32847",
+                    "name": "Files\/File7",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1572642558287440:50358",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1572642558378993:50373",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1572642558465223:50388",
+                    "name": "Files\/File13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1572642559504099:50483",
+                    "name": "Files\/File23.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1572642560084831:50515",
+                    "name": "Files\/File26.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1572642560173313:50530",
+                    "name": "Files\/File27.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1572642560260422:50545",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1572642560347223:50560",
+                    "name": "Files\/File29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1572642561143103:50642",
+                    "name": "Files\/File34.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1572642711740258:129301",
+                    "name": "Files\/File37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1572642857322220:176504",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1572642944542586:192631",
+                    "name": "Files\/File44",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1572642969514655:204182",
+                    "name": "Files\/File46",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1572643027431922:236760",
+                    "name": "Files\/File48",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1572643227667482:404121",
+                    "name": "Files\/File50",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1592128381355884:62841",
+                    "name": "Files\/File58.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1592128381465244:62862",
+                    "name": "Files\/File60.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1592128381775536:66527",
+                    "name": "Files\/File62.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1592128382135521:70180",
+                    "name": "Files\/File64.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1592128382296541:70239",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1592128382563906:70420",
+                    "name": "Files\/File68.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1592128398243063:79151",
+                    "name": "Files\/File70.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1592129724850809:407171",
+                    "name": "Files\/File72.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1592131474975011:815721",
+                    "name": "Files\/File76.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1592131626759489:851912",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1592131639438731:857186",
+                    "name": "Files\/File78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1592131739364933:872979",
+                    "name": "Files\/File79.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1572642147713176:2453",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1572642147732216:2662",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1572642155339369:9283",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1572643013573779:222203",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1572643216747385:386302",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1572642147702431:2352",
+                "4": "1572642147712534:2447",
+                "5": "1572642147732055:2659",
+                "6": "1572642155317457:8894",
+                "7": "1572642561348537:50717",
+                "8": "1572642857252531:176467",
+                "9": "1572643013555732:221814",
+                "10": "1572643216729442:385913",
+                "11": "1592128397808433:79064",
+                "12": "1592128640547397:150353",
+                "13": "1592128644526932:158275"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.lsmat"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.js"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.js"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.js"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.js"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.js"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.js"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.lsmat"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.lsmat"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.lsmat"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.lsmat"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.lsmat"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.lsmat"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.jpg"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.jpg"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.jpg"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.jpg"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.jpg"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.jpg"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.jpg"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.jpg"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.jpg"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.jpg"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.jpg"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.jpg"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.jpg"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.jpg"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Textures\/Holder.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures\/Circle.png"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Materials\/Circle_Button_Cyan.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Tween"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Tween\/Tween.js"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Tween\/TweenTypes\/TweenBillboard [DEPRECATED].js"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "35",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Materials\/Analog TV.lsmat"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Materials\/VHS.lsmat"
+                    },
+                    {
+                        "k": "40",
+                        "v": "Materials\/Dithering.lsmat"
+                    },
+                    {
+                        "k": "41",
+                        "v": "Materials\/Circle_Button_Yellow.lsmat"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Materials\/Circle_Button_Magenta.lsmat"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "45",
+                        "v": "base_post_effect_lookup_table_new232832 (7).jpg"
+                    },
+                    {
+                        "k": "46",
+                        "v": "base_post_effect_lookup_table_new232832 (8).jpg"
+                    },
+                    {
+                        "k": "47",
+                        "v": "base_post_effect_lookup_table_new232832 (9).jpg"
+                    },
+                    {
+                        "k": "48",
+                        "v": "base_post_effect_lookup_table_new232832 (4).jpg"
+                    },
+                    {
+                        "k": "49",
+                        "v": "base_post_effect_lookup_table_new232832 (5).jpg"
+                    },
+                    {
+                        "k": "50",
+                        "v": "base_post_effect_lookup_table_new232832 (6).jpg"
+                    },
+                    {
+                        "k": "51",
+                        "v": "Empty.png"
+                    },
+                    {
+                        "k": "52",
+                        "v": "Old Paper.png"
+                    },
+                    {
+                        "k": "54",
+                        "v": "BW.png"
+                    },
+                    {
+                        "k": "55",
+                        "v": "animation"
+                    },
+                    {
+                        "k": "56",
+                        "v": "2020-05-01 10.jpg"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "0f4333bcb20ea375b5b0dd174d0de0b0"
+                    },
+                    {
+                        "k": "4",
+                        "v": "48ef56bb44ea368b55b4d688719de46a"
+                    },
+                    {
+                        "k": "6",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "7",
+                        "v": "1ca72caa05f70c0bd00bd8ecf4808bab"
+                    },
+                    {
+                        "k": "9",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "11",
+                        "v": "9389deaec4231b11b4e485b24ccba204"
+                    },
+                    {
+                        "k": "12",
+                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                    },
+                    {
+                        "k": "15",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "17",
+                        "v": "a89523f4afc1303bbaee87b0dc1ced59"
+                    },
+                    {
+                        "k": "20",
+                        "v": "4eab6797e480c70e18668249c53eaeae"
+                    },
+                    {
+                        "k": "21",
+                        "v": "b6a6f1930cea233284517a6b405eb7f8"
+                    },
+                    {
+                        "k": "22",
+                        "v": "0663e2be978bc6d1cda602bb91bdb093"
+                    },
+                    {
+                        "k": "23",
+                        "v": "6333a68a84a5f7e47993037966d1e135"
+                    },
+                    {
+                        "k": "24",
+                        "v": "3478885e273eeafd29f12cbe27768dbc"
+                    },
+                    {
+                        "k": "25",
+                        "v": "aa362e7548dcf0b077de03d641431777"
+                    },
+                    {
+                        "k": "26",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    },
+                    {
+                        "k": "27",
+                        "v": "6c038aa78934d8b410cc753fb5f405a1"
+                    },
+                    {
+                        "k": "28",
+                        "v": "f51e2387d37af7b5a85766408a362e18"
+                    },
+                    {
+                        "k": "29",
+                        "v": "8110f392eba04085dc3b166ace659549"
+                    },
+                    {
+                        "k": "30",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "31",
+                        "v": "550028626efc41ac36131021cda09b5e"
+                    },
+                    {
+                        "k": "32",
+                        "v": "42e34f6843c51889977aed3783ff56e9"
+                    },
+                    {
+                        "k": "34",
+                        "v": "53472a2ec89b20400378e0b3063e8821"
+                    },
+                    {
+                        "k": "35",
+                        "v": "56c310b86dcb04b9549afade6acb8c78"
+                    },
+                    {
+                        "k": "36",
+                        "v": "fe51cf23f683ce06ef70a91cf6a35106"
+                    },
+                    {
+                        "k": "37",
+                        "v": "b4361cdf13dbd1e9f019c5b1f8199509"
+                    },
+                    {
+                        "k": "38",
+                        "v": "23bae071235a00f7d47d58e3f397d269"
+                    },
+                    {
+                        "k": "39",
+                        "v": "28d533f74071e74534cef36bb585f689"
+                    },
+                    {
+                        "k": "40",
+                        "v": "cb8feeb29757af7ddad1ed0fa5d7505d"
+                    },
+                    {
+                        "k": "41",
+                        "v": "95d0e8db98680b64e8596dc39fe0e89f"
+                    },
+                    {
+                        "k": "42",
+                        "v": "a74f4657de386dc7f80485480eb3dd77"
+                    },
+                    {
+                        "k": "45",
+                        "v": "db2e234d95fc0c44e36d7957e7691872"
+                    },
+                    {
+                        "k": "46",
+                        "v": "d558a773a4054c5717a62a2ae75b6757"
+                    },
+                    {
+                        "k": "47",
+                        "v": "b2b304bf435e281fdf31c5224deeb139"
+                    },
+                    {
+                        "k": "48",
+                        "v": "76b27d2a2e7a05c1e231cafbe70e2a5f"
+                    },
+                    {
+                        "k": "49",
+                        "v": "345fed5a18312e39ce36b687717dd08a"
+                    },
+                    {
+                        "k": "50",
+                        "v": "c03f2002d69ac5e076158163114d5472"
+                    },
+                    {
+                        "k": "51",
+                        "v": "176ebd81a6145a98cc0464c9264b7fce"
+                    },
+                    {
+                        "k": "52",
+                        "v": "3acd9c68c33b25e370568c8e3ca488c7"
+                    },
+                    {
+                        "k": "53",
+                        "v": "c98dcfa512756dc3695393f92dc97fdc"
+                    },
+                    {
+                        "k": "54",
+                        "v": "9a92be07f823945e5cf5c8cccf88473f"
+                    },
+                    {
+                        "k": "55",
+                        "v": "7187437691836c070a2d6e8101795ad4"
+                    },
+                    {
+                        "k": "56",
+                        "v": "971ce2ed320725424d086cd600142319"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-14T16:18:59",
+                        "name": "Public",
+                        "hash": "e559e5fd386c86eba121054aa4c63828",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-03T10:54:52",
+                                "name": "2020-05-01 10.jpg",
+                                "hash": "971ce2ed320725424d086cd600142319",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-14T16:17:19",
+                                "name": "animation",
+                                "hash": "8fd9d3ca271528c4a97391be8f6e638b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T16:17:19",
+                                        "name": "animation.t3d",
+                                        "hash": "378b515749edb0741682d551c23c6150",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T16:17:19",
+                                        "name": "atlas_0.jpg",
+                                        "hash": "1fb3dc4748e1eeb3d4a9a03e81a96af1",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:45",
+                                "name": "base_post_effect_lookup_table_new232832 (4).jpg",
+                                "hash": "76b27d2a2e7a05c1e231cafbe70e2a5f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:39",
+                                "name": "base_post_effect_lookup_table_new232832 (5).jpg",
+                                "hash": "345fed5a18312e39ce36b687717dd08a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:34",
+                                "name": "base_post_effect_lookup_table_new232832 (6).jpg",
+                                "hash": "c03f2002d69ac5e076158163114d5472",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:26",
+                                "name": "base_post_effect_lookup_table_new232832 (7).jpg",
+                                "hash": "db2e234d95fc0c44e36d7957e7691872",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:17",
+                                "name": "base_post_effect_lookup_table_new232832 (8).jpg",
+                                "hash": "d558a773a4054c5717a62a2ae75b6757",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:03",
+                                "name": "base_post_effect_lookup_table_new232832 (9).jpg",
+                                "hash": "b2b304bf435e281fdf31c5224deeb139",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-01T14:11:52",
+                                "name": "Behavior.js",
+                                "hash": "56c310b86dcb04b9549afade6acb8c78",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "BW.png",
+                                "hash": "9a92be07f823945e5cf5c8cccf88473f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Empty.png",
+                                "hash": "176ebd81a6145a98cc0464c9264b7fce",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-08-26T14:11:34",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-14T15:55:48",
+                                "name": "Materials",
+                                "hash": "026b45ea3275fe774d4ffa5950e19c90",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T15:22:13",
+                                        "name": "Analog TV.lsmat",
+                                        "hash": "23bae071235a00f7d47d58e3f397d269",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T15:22:12",
+                                        "name": "Circle_Button_Cyan.lsmat",
+                                        "hash": "1ca72caa05f70c0bd00bd8ecf4808bab",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T15:22:13",
+                                        "name": "Circle_Button_Magenta.lsmat",
+                                        "hash": "a74f4657de386dc7f80485480eb3dd77",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T15:22:13",
+                                        "name": "Circle_Button_Yellow.lsmat",
+                                        "hash": "95d0e8db98680b64e8596dc39fe0e89f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T15:22:13",
+                                        "name": "Dithering.lsmat",
+                                        "hash": "cb8feeb29757af7ddad1ed0fa5d7505d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:22:44",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-14T15:22:13",
+                                        "name": "VHS.lsmat",
+                                        "hash": "28d533f74071e74534cef36bb585f689",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Old Paper.png",
+                                "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-14T15:55:48",
+                                "name": "Textures",
+                                "hash": "372b12e60613c6c6ce0cd74a8a7737c2",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:04:36",
+                                        "name": "Circle.png",
+                                        "hash": "48ef56bb44ea368b55b4d688719de46a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-08-26T14:11:34",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-08-26T14:11:34",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:22:56",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:08:10",
+                                        "name": "Holder.png",
+                                        "hash": "0f4333bcb20ea375b5b0dd174d0de0b0",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-14T15:55:48",
+                                "name": "Tween",
+                                "hash": "1fb0c4d2825b07d4f19012e7dfc11674",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:09:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:09:18",
+                                        "name": "Tween.js",
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-01T14:09:18",
+                                        "name": "TweenManager.js",
+                                        "hash": "1b937dfbcbcd8ef1ee1a275fe7899278",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-06-14T15:55:48",
+                                        "name": "TweenTypes",
+                                        "hash": "580b2dec38c09c9d3357dd22eba1cc97",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenAlpha.js",
+                                                "hash": "aa362e7548dcf0b077de03d641431777",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenBillboard [DEPRECATED].js",
+                                                "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenChain.js",
+                                                "hash": "f51e2387d37af7b5a85766408a362e18",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenColor.js",
+                                                "hash": "6333a68a84a5f7e47993037966d1e135",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenScreenTransform.js",
+                                                "hash": "42e34f6843c51889977aed3783ff56e9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenTransform.js",
+                                                "hash": "9389deaec4231b11b4e485b24ccba204",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-01T14:09:18",
+                                                "name": "TweenValue.js",
+                                                "hash": "6c038aa78934d8b410cc753fb5f405a1",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "55"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Tween",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1572642558287440:50358",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenTypes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "uid": "1572642558378993:50373",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "11",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "uid": "1572642559504099:50483",
+                                        "fileId": "23",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "23",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "uid": "1572642560084831:50515",
+                                        "fileId": "26",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "25",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenBillboard [DEPRECATED]",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "uid": "1572642560173313:50530",
+                                        "fileId": "27",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "uid": "1572642560260422:50545",
+                                        "fileId": "28",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "uid": "1572642560347223:50560",
+                                        "fileId": "29",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "28",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenScreenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "uid": "1572642561143103:50642",
+                                        "fileId": "34",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "32",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1572642558465223:50388",
+                                "fileId": "13",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "43",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Circle_Button_Cyan",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "uid": "1572642337627379:32847",
+                                "fileId": "7",
+                                "originalId": "52",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Analog TV",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "uid": "1572642857322220:176504",
+                                "fileId": "38",
+                                "originalId": "53",
+                                "publicId": "38",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "VHS",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "uid": "1572642944542586:192631",
+                                "fileId": "44",
+                                "originalId": "54",
+                                "publicId": "39",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Dithering",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "uid": "1572642969514655:204182",
+                                "fileId": "46",
+                                "originalId": "55",
+                                "publicId": "40",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Circle_Button_Yellow",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "uid": "1572643027431922:236760",
+                                "fileId": "48",
+                                "originalId": "56",
+                                "publicId": "41",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Circle_Button_Magenta",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "40",
+                                "dependency": "0",
+                                "uid": "1572643227667482:404121",
+                                "fileId": "50",
+                                "originalId": "57",
+                                "publicId": "42",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "44",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "8",
+                                "dependency": "0",
+                                "uid": "1517446348230286:84828",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1517446348234137:84840",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Holder",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "0",
+                                "uid": "1572642144280673:2278",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Circle",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1572642280633908:26492",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "33",
+                        "dependency": "0",
+                        "uid": "1572642711740258:129301",
+                        "fileId": "37",
+                        "originalId": "18446744073709551615",
+                        "publicId": "35",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (8)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "42",
+                        "dependency": "0",
+                        "uid": "1592128381465244:62862",
+                        "fileId": "60",
+                        "originalId": "61",
+                        "publicId": "46",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (8).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (9)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "43",
+                        "dependency": "0",
+                        "uid": "1592128381775536:66527",
+                        "fileId": "62",
+                        "originalId": "63",
+                        "publicId": "47",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (9).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (4)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "44",
+                        "dependency": "0",
+                        "uid": "1592128382135521:70180",
+                        "fileId": "64",
+                        "originalId": "65",
+                        "publicId": "48",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (4).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (5)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "45",
+                        "dependency": "0",
+                        "uid": "1592128382296541:70239",
+                        "fileId": "66",
+                        "originalId": "67",
+                        "publicId": "49",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (5).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (6)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "46",
+                        "dependency": "0",
+                        "uid": "1592128382563906:70420",
+                        "fileId": "68",
+                        "originalId": "69",
+                        "publicId": "50",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (6).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Empty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "47",
+                        "dependency": "0",
+                        "uid": "1592128398243063:79151",
+                        "fileId": "70",
+                        "originalId": "71",
+                        "publicId": "51",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Empty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (7)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1592128381355884:62841",
+                        "fileId": "58",
+                        "originalId": "59",
+                        "publicId": "45",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (7).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Old Paper",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "48",
+                        "dependency": "0",
+                        "uid": "1592129724850809:407171",
+                        "fileId": "72",
+                        "originalId": "73",
+                        "publicId": "52",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/OldPaper.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "BW",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "50",
+                        "dependency": "0",
+                        "uid": "1592131474975011:815721",
+                        "fileId": "76",
+                        "originalId": "77",
+                        "publicId": "54",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BW.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Screen Texture",
+                        "type": "1",
+                        "subtype": "16",
+                        "resourceId": "51",
+                        "dependency": "0",
+                        "uid": "1592131626759489:851912",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "animation",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "52",
+                        "dependency": "0",
+                        "uid": "1592131639438731:857186",
+                        "fileId": "78",
+                        "originalId": "18446744073709551615",
+                        "publicId": "55",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "2020-05-01 10",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "53",
+                        "dependency": "0",
+                        "uid": "1592131739364933:872979",
+                        "fileId": "79",
+                        "originalId": "80",
+                        "publicId": "56",
+                        "source": "D:\/DOWNLOADS\/2020-05-01 10.13.20 1.jpg",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1592128644526932:158275"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

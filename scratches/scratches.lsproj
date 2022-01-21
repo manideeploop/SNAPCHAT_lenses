@@ -1,0 +1,872 @@
+{
+    "lens_id": "9e371d24-b87a-498a-a7aa-ae46a02733ab",
+    "document_id": "pNQH7PPJ8f7feTGBbVqp",
+    "original_document_id": "pNQH7PPJ8f7feTGBbVqp",
+    "version": "23",
+    "lastChanged": "1591690288254",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-06-09T08:10:36.979Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "2020-06-04 01"
+                    ],
+                    [
+                        "Contrast"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Particles",
+                        "—Pngtree—gold  floating premium_3628629"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "scratches-texture-black-and-white-png-1-original"
+                    ],
+                    [
+                        "—Pngtree—floating intensive math notes_94914"
+                    ],
+                    [
+                        "—Pngtree—gold  floating premium_3628629"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "bed33e61a3cb9e792d8b03ac64ec8c63",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "SCRATCHES",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1591630811859665:1901",
+                    "name": "Files\/File3.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1591630811919635:1913",
+                    "name": "Files\/File5",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1591630812140575:1932",
+                    "name": "Files\/File7.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1591630820187546:2119",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1591630913615286:2572",
+                    "name": "Files\/File10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1591631166389270:5001",
+                    "name": "Files\/File12.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1591631383151381:7002",
+                    "name": "Files\/File14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1591631442622636:10644",
+                    "name": "Files\/File16.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1591631550631281:17670",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1591631109543310:3068",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1591631414369252:7719",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1591631500677384:13553",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1591631676402886:20973",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1591630812160672:1944",
+                "4": "1591631109452612:2867",
+                "5": "1591631109473818:2932",
+                "6": "1591631109542859:3067",
+                "7": "1591631414332704:7459",
+                "8": "1591631442338296:10598",
+                "9": "1591631442338871:10599",
+                "10": "1591631500622872:13293",
+                "11": "1591631676358053:20713"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.lsmat"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.mesh"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.jpg"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.jpg"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Particles"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Particles\/Particles Texture.jpg"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Particles\/Particles Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Particles\/Particles Mesh.mesh"
+                    },
+                    {
+                        "k": "7",
+                        "v": "—Pngtree—gold  floating premium_3628629.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Particles\/—Pngtree—gold  floating premium_3628629.png"
+                    },
+                    {
+                        "k": "9",
+                        "v": "—Pngtree—floating intensive math notes_94914.png"
+                    },
+                    {
+                        "k": "10",
+                        "v": "scratches-texture-black-and-white-png-1-original.png"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Contrast.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "2020-06-04 01.jpg"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "4",
+                        "v": "0d519ea673f9a665aa0fccf02f15b4a0"
+                    },
+                    {
+                        "k": "5",
+                        "v": "53aa00720591bdae0cbbdce2506791b7"
+                    },
+                    {
+                        "k": "6",
+                        "v": "a5adcbdb568b3556fe3d03137cb05292"
+                    },
+                    {
+                        "k": "7",
+                        "v": "431af0a370c0300bb4436018e67f62ec"
+                    },
+                    {
+                        "k": "8",
+                        "v": "431af0a370c0300bb4436018e67f62ec"
+                    },
+                    {
+                        "k": "9",
+                        "v": "baf0924609ecd06a8aa52e0d9dd3562b"
+                    },
+                    {
+                        "k": "10",
+                        "v": "1831dee000b868e02b0bbf21c8b47f15"
+                    },
+                    {
+                        "k": "11",
+                        "v": "d3daf47ad777893294324c4ae4ecf4ed"
+                    },
+                    {
+                        "k": "12",
+                        "v": "dbde863dd51c0759630cb0a2115c38e4"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-08T21:22:30",
+                        "name": "Public",
+                        "hash": "38cb79cfb2757a524ef2a4268e570504",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:56:05",
+                                "name": "2020-06-04 01.jpg",
+                                "hash": "dbde863dd51c0759630cb0a2115c38e4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Contrast.png",
+                                "hash": "d3daf47ad777893294324c4ae4ecf4ed",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-08T21:14:16",
+                                "name": "Particles",
+                                "hash": "3f4872dc377d4d96b051095c026da8da",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-08T21:10:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-08T21:10:12",
+                                        "name": "Particles Emitter Material.lsmat",
+                                        "hash": "53aa00720591bdae0cbbdce2506791b7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-08T21:10:11",
+                                        "name": "Particles Mesh.mesh",
+                                        "hash": "a5adcbdb568b3556fe3d03137cb05292",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-06T12:30:14",
+                                        "name": "Particles Texture.jpg",
+                                        "hash": "0d519ea673f9a665aa0fccf02f15b4a0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-08T21:09:06",
+                                        "name": "—Pngtree—gold  floating premium_3628629.png",
+                                        "hash": "431af0a370c0300bb4436018e67f62ec",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-08-27T13:50:20",
+                                "name": "scratches-texture-black-and-white-png-1-original.png",
+                                "hash": "1831dee000b868e02b0bbf21c8b47f15",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-08T21:15:56",
+                                "name": "—Pngtree—floating intensive math notes_94914.png",
+                                "hash": "baf0924609ecd06a8aa52e0d9dd3562b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-08T21:09:06",
+                                "name": "—Pngtree—gold  floating premium_3628629.png",
+                                "hash": "431af0a370c0300bb4436018e67f62ec",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "0",
+                                "uid": "1591630811859665:1901",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "4",
+                                "source": "D:\/DOWNLOADS\/base_post_effect_lookup_table_new232832 (2).jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1591630811919635:1913",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "uid": "1591630812140575:1932",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-OmJpJH\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            },
+                            {
+                                "name": "—Pngtree—gold  floating premium_3628629",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1591630913615286:2572",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "8",
+                                "source": "D:\/DOWNLOADS\/—Pngtree—gold  floating premium_3628629.png",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "—Pngtree—gold  floating premium_3628629",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1591630820187546:2119",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "7",
+                        "source": "D:\/DOWNLOADS\/—Pngtree—gold  floating premium_3628629.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "—Pngtree—floating intensive math notes_94914",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1591631166389270:5001",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "9",
+                        "source": "D:\/DOWNLOADS\/—Pngtree—floating intensive math notes_94914.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "scratches-texture-black-and-white-png-1-original",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1591631383151381:7002",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "10",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/scratches-texture-black-and-white-png-1-original.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Contrast",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1591631442622636:10644",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "11",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Contrast.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "2020-06-04 01",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1591631550631281:17670",
+                        "fileId": "18",
+                        "originalId": "19",
+                        "publicId": "12",
+                        "source": "D:\/DOWNLOADS\/2020-06-04 01.51.49 1.jpg",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1591631414332704:7459"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

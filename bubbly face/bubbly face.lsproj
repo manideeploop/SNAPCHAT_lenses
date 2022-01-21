@@ -1,0 +1,1222 @@
+{
+    "lens_id": "",
+    "document_id": "xOCbbzcwtqU63b1dgkxg",
+    "original_document_id": "xOCbbzcwtqU63b1dgkxg",
+    "version": "23",
+    "lastChanged": "1586353391571",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-04-08T13:33:55.176Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Dance Pop Sticker by DJ Zinc"
+                    ],
+                    [
+                        "Pacifico"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1586350731155258:5024",
+                    "1586350868903671:9892"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "7efa62fdc0cd3e2501932a01fe9107f3",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "bubbly face",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1586350597782579:2007",
+                    "1586352260737234:104464",
+                    "1586352293462439:107358",
+                    "1586352356248830:110387"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1586350664017920:3520",
+                    "name": "Files\/File3.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1586350678745940:3811",
+                    "name": "Files\/File5.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1586350691342009:4166",
+                    "name": "Files\/File7",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1586350705470822:4579",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1586350731341783:5069",
+                    "name": "Files\/File11.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1586350780384915:6143",
+                    "name": "Files\/File13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1586350824228897:8007",
+                    "name": "Files\/File14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1586350837853350:8887",
+                    "name": "Files\/File16.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1586350868454574:9826",
+                    "name": "Location Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1586350868668493:9861",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1586350868878770:9880",
+                    "name": "Files\/File20.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1586350869069861:9949",
+                    "name": "Files\/File21.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1586350946742068:12380",
+                    "name": "Files\/File22.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1586350984179132:14410",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1586351474857237:27722",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1586351948494268:77664",
+                    "name": "Files\/File28.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1586352356235600:110376",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": [
+                        {
+                            "k": "1586352260737575:104465",
+                            "v": {
+                                "eyeColorInfo": {
+                                    "textureUid": "1586350664017920:3520",
+                                    "mode": "1",
+                                    "color": {
+                                        "x": "0.200000003",
+                                        "y": "0.699999988",
+                                        "z": "0.5",
+                                        "w": "0.300000012"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1586351712281919:37350",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1586350597782184:2006",
+                "4": "1586350597782579:2007",
+                "5": "1586350663855302:3475",
+                "6": "1586350678519976:3766",
+                "7": "1586350690964534:4110",
+                "8": "1586350731155258:5024",
+                "9": "1586350780419827:6155",
+                "10": "1586350824079697:7962",
+                "11": "1586350837705704:8842",
+                "12": "1586350868903671:9892",
+                "13": "1586350868904084:9894",
+                "14": "1586350946536724:12328",
+                "15": "1586350982011650:14350",
+                "16": "1586351250212196:19568",
+                "17": "1586351712235845:37147",
+                "18": "1586351712247926:37213",
+                "19": "1586351712281696:37349",
+                "20": "1586352260737234:104464",
+                "21": "1586352293462439:107358",
+                "22": "1586352356248549:110386",
+                "23": "1586352356248830:110387"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.lsmat"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsmat"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.js"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.js"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.gif"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.ttf"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.gif"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Miami.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Beauty.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Dithering.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Shake.lsmat"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Two Stripe.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Cinematic.png"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Blue Orange.png"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Flatiron"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Flatiron\/Materials"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Flatiron\/Materials\/Occluder.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Flatiron\/Meshes"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Flatiron\/Meshes\/Building.mesh"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Mirror on front camera.js"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Vintage Red.png"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Clean.png"
+                    },
+                    {
+                        "k": "19",
+                        "v": "catpizza.gif"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Pacifico.ttf"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Dance Pop Sticker by DJ Zinc.gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "3c59a7cfbe569d140c48778737513d0c"
+                    },
+                    {
+                        "k": "4",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "5",
+                        "v": "5abcd204f2217d9447f4dac8cd79252c"
+                    },
+                    {
+                        "k": "6",
+                        "v": "e9545b2432972e1e283bceef07c9a257"
+                    },
+                    {
+                        "k": "7",
+                        "v": "6e39e3a8f2e1bd8dee246991e3394fd4"
+                    },
+                    {
+                        "k": "8",
+                        "v": "b135f6a9cefe77e6bd518dc014fd6257"
+                    },
+                    {
+                        "k": "9",
+                        "v": "16d9fbfab32f3264f36b189ba989b44e"
+                    },
+                    {
+                        "k": "10",
+                        "v": "17fc5cc4bb9546556de454172f9dc9ae"
+                    },
+                    {
+                        "k": "13",
+                        "v": "09ada61c037e8d48ab1f37ecc5245a64"
+                    },
+                    {
+                        "k": "15",
+                        "v": "de3ac639ae0c673b79f3ac32b572c897"
+                    },
+                    {
+                        "k": "16",
+                        "v": "5e0e42b2f75580a56fd367be1ae7308c"
+                    },
+                    {
+                        "k": "17",
+                        "v": "b8a76449d48003dcc2a635457ac5c665"
+                    },
+                    {
+                        "k": "18",
+                        "v": "888d72629c8423d2383828c8597076ba"
+                    },
+                    {
+                        "k": "19",
+                        "v": "98f55cc141e93ad7b3c4da83bdb89911"
+                    },
+                    {
+                        "k": "20",
+                        "v": "324944d6dae53ea48a648b1d44ec78c3"
+                    },
+                    {
+                        "k": "21",
+                        "v": "86dbd1af8b9955bc0e4b4f7c7dc2ed34"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-04-08T18:55:56",
+                        "name": "Public",
+                        "hash": "1a6c00aad4a80a8feead95b641087223",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Beauty.png",
+                                "hash": "a276acaed7d65e4c1b56181771677a77",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-08T18:29:40",
+                                "name": "Behavior.js",
+                                "hash": "b135f6a9cefe77e6bd518dc014fd6257",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Blue Orange.png",
+                                "hash": "17fc5cc4bb9546556de454172f9dc9ae",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-08T18:36:37",
+                                "name": "catpizza.gif",
+                                "hash": "98f55cc141e93ad7b3c4da83bdb89911",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Cinematic.png",
+                                "hash": "16d9fbfab32f3264f36b189ba989b44e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Clean.png",
+                                "hash": "888d72629c8423d2383828c8597076ba",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-08T18:55:55",
+                                "name": "Dance Pop Sticker by DJ Zinc.gif",
+                                "hash": "86dbd1af8b9955bc0e4b4f7c7dc2ed34",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-08T18:28:11",
+                                "name": "Dithering.lsmat",
+                                "hash": "5abcd204f2217d9447f4dac8cd79252c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-08T18:31:08",
+                                "name": "Flatiron",
+                                "hash": "a581d190635ccefd3eec385f8e147711",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-08T18:31:08",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-04-08T18:31:14",
+                                        "name": "Materials",
+                                        "hash": "95f8d03f9847ee1cff98db0a72594d2a",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-04-08T18:31:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-04-08T18:31:13",
+                                                "name": "Occluder.lsmat",
+                                                "hash": "09ada61c037e8d48ab1f37ecc5245a64",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-04-08T18:31:08",
+                                        "name": "Meshes",
+                                        "hash": "b0b50147891828e7698f9654dec8a868",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-04-08T18:31:08",
+                                                "name": "Building.mesh",
+                                                "hash": "de3ac639ae0c673b79f3ac32b572c897",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-04-08T18:31:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Miami.png",
+                                "hash": "3c59a7cfbe569d140c48778737513d0c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:20:22",
+                                "name": "Mirror on front camera.js",
+                                "hash": "5e0e42b2f75580a56fd367be1ae7308c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "Pacifico.ttf",
+                                "hash": "324944d6dae53ea48a648b1d44ec78c3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-08T18:28:25",
+                                "name": "Shake.lsmat",
+                                "hash": "e9545b2432972e1e283bceef07c9a257",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Two Stripe.png",
+                                "hash": "6e39e3a8f2e1bd8dee246991e3394fd4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Vintage Red.png",
+                                "hash": "b8a76449d48003dcc2a635457ac5c665",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Miami",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1586350664017920:3520",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "3",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Miami.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Beauty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1586350678745940:3811",
+                        "fileId": "5",
+                        "originalId": "6",
+                        "publicId": "4",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Beauty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Dithering",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1586350691342009:4166",
+                        "fileId": "7",
+                        "originalId": "8",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Shake",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1586350705470822:4579",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "6",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Two Stripe",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1586350731341783:5069",
+                        "fileId": "11",
+                        "originalId": "12",
+                        "publicId": "7",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/TwoStripe.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1586350780384915:6143",
+                        "fileId": "13",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-kNBcmi\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Cinematic",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1586350824228897:8007",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "9",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Cinematic.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Blue Orange",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1586350837853350:8887",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "10",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/BlueOrange.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Flatiron Building Asset",
+                        "type": "20",
+                        "subtype": "0",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1586350868454574:9826",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Flatiron",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Occluder",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "uid": "1586350868668493:9861",
+                                        "fileId": "18",
+                                        "originalId": "19",
+                                        "publicId": "13",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Building",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "uid": "1586350868878770:9880",
+                                        "fileId": "20",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-kNBcmi\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mirror on front camera",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1586350869069861:9949",
+                        "fileId": "21",
+                        "originalId": "18446744073709551615",
+                        "publicId": "16",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/Scripting\/FrontCameraMirror.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Vintage Red",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1586350946742068:12380",
+                        "fileId": "22",
+                        "originalId": "23",
+                        "publicId": "17",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/VintageRed.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Clean",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1586350984179132:14410",
+                        "fileId": "24",
+                        "originalId": "25",
+                        "publicId": "18",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Clean.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "catpizza",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1586351474857237:27722",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "19",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Pacifico",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1586351948494268:77664",
+                        "fileId": "28",
+                        "originalId": "18446744073709551615",
+                        "publicId": "20",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Fonts\/Pacifico-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Dance Pop Sticker by DJ Zinc",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1586352356235600:110376",
+                        "fileId": "29",
+                        "originalId": "30",
+                        "publicId": "21",
+                        "source": "",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1586351712281696:37349"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

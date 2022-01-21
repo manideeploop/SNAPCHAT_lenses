@@ -1,0 +1,584 @@
+{
+    "lens_id": "",
+    "document_id": "WjhgAfq3co4KiboQew3E",
+    "original_document_id": "WjhgAfq3co4KiboQew3E",
+    "version": "23",
+    "lastChanged": "1590684477833",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Opacity Textures"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_no_eye_lips"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "giphy"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1520545178554147:10965",
+                    "1521580009588546:106627"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "3b9b022bb44a4420edeaf72be7f71371",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "party ghost",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 6.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1520044577083088:73255",
+                    "1520044579934335:73494",
+                    "1521484971179134:4034",
+                    "1521486874402878:5762",
+                    "1521486967333657:6687",
+                    "1521657310584077:135534",
+                    "1521689674399905:1995",
+                    "1522778490082055:233296"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1521580009593647:106646",
+                    "name": "\/Resources\/Resource48.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1521580009601389:106658",
+                    "name": "\/Resources\/Resource49.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1522778595323327:233827",
+                    "name": "\/Resources\/Resource68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1590684114996221:2771",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1520545178554147:10965",
+                "1": "1521580009588546:106627",
+                "2": "1521580009588566:106630",
+                "3": "1521580009588611:106636",
+                "4": "1521689674399905:1995",
+                "5": "1522712074942519:41791",
+                "6": "1522778490082055:233296"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.gif"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Opacity Textures"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Opacity Textures\/full_no_eye_lips.png"
+                    },
+                    {
+                        "k": "19",
+                        "v": "giphy.gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "3",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "5",
+                        "v": "36e8a00b55dfdb429771f98cb0a943db"
+                    },
+                    {
+                        "k": "6",
+                        "v": "c75c126e9e6ddc2fc191875fbc32c147"
+                    },
+                    {
+                        "k": "7",
+                        "v": "42867e2460badb8c40372c660aeeedfa"
+                    },
+                    {
+                        "k": "8",
+                        "v": "7f97707eb3e42b45c6b03d5e990045d3"
+                    },
+                    {
+                        "k": "9",
+                        "v": "685c03692eb04109941ea0ade52e3f59"
+                    },
+                    {
+                        "k": "10",
+                        "v": "9426dd26e34f9577cbf93579b02fcda2"
+                    },
+                    {
+                        "k": "11",
+                        "v": "d76b5ded2fa1d9d412e463b47eeb12fd"
+                    },
+                    {
+                        "k": "12",
+                        "v": "95e79b482ffce043795f199cdc1f3969"
+                    },
+                    {
+                        "k": "13",
+                        "v": "83d322aa1172cae41aa520f17bcc2041"
+                    },
+                    {
+                        "k": "14",
+                        "v": "60f9b7fd5f432347d2a6c33814a392ce"
+                    },
+                    {
+                        "k": "15",
+                        "v": "5da508b500472344200a23a0e069d1c9"
+                    },
+                    {
+                        "k": "16",
+                        "v": "8016e4882eac65654954081feffd1ac7"
+                    },
+                    {
+                        "k": "17",
+                        "v": "1ab6da4f5ef25334ee6b757c7618d3b9"
+                    },
+                    {
+                        "k": "18",
+                        "v": "86c3a77828c5f504000ce8f3f28fbaba"
+                    },
+                    {
+                        "k": "19",
+                        "v": "c4403808c2f77193bea366c1a9db04bd"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-28T22:17:19",
+                        "name": "Public",
+                        "hash": "7d69d62a378005224158bec64dfee9e0",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:20:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-28T22:11:12",
+                                "name": "giphy.gif",
+                                "hash": "c4403808c2f77193bea366c1a9db04bd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-28T22:17:19",
+                                "name": "Opacity Textures",
+                                "hash": "250a42e73ffdd703f3c5301592e0a283",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:06",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:06",
+                                        "name": "full_no_eye_lips.png",
+                                        "hash": "95e79b482ffce043795f199cdc1f3969",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-28T22:11:43",
+                                "name": "Textures",
+                                "hash": "5d0daf4be82fee50df678f1d3a4975ad",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:06",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:06",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:20:06",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "uid": "1521580009593647:106646",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "uid": "1521580009601389:106658",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opacity Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "full_no_eye_lips",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "68",
+                                "dependency": "0",
+                                "uid": "1522778595323327:233827",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "giphy",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "74",
+                        "dependency": "0",
+                        "uid": "1590684114996221:2771",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "19",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1522778490082055:233296"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

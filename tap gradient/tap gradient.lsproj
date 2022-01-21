@@ -1,0 +1,959 @@
+{
+    "lens_id": "",
+    "document_id": "ZypBbvvjuIma0_aNHf4M",
+    "original_document_id": "GxmD3nX9TPhOX2V0vbk5",
+    "version": "24",
+    "lastChanged": "1592032436086",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-06-13T07:12:58.224Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Sprite Default"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_new232832 (5)"
+                    ],
+                    [
+                        "coolHue-72EDF2-5151E5"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B41"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4_3"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4s"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4w"
+                    ],
+                    [
+                        "coolHue-FD6585-0D25B9"
+                    ],
+                    [
+                        "coolHue-FFF6B7-F6416C"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1531921523004709:5140"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "6a9d8674341a79bfe88bb072488b8285",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "TAP GRADIENT",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1531920780508799:1909",
+                    "1531928428944279:313804"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1531920410886379:1202",
+                    "name": "\/Resources\/Resource10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1531926171953165:298686",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1531926221195684:300123",
+                    "name": "\/Resources\/Resource23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1531927994636543:309809",
+                    "name": "\/Resources\/Resource25.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1531927994754245:309831",
+                    "name": "\/Resources\/Resource26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1531927994881236:309853",
+                    "name": "\/Resources\/Resource27.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1531927994997631:309875",
+                    "name": "\/Resources\/Resource28.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1531928429791286:314172",
+                    "name": "Resource34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1592032023128235:10948",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1592032153018468:24157",
+                    "name": "Files\/File15.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1592032156516332:24602",
+                    "name": "Files\/File17.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1592032160164625:25060",
+                    "name": "Files\/File19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1592032164012067:25539",
+                    "name": "Files\/File21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1531926171943827:298600",
+                "4": "1531926171953687:298695",
+                "5": "1531926171955037:298698",
+                "6": "1531928428938248:313801",
+                "7": "1531928428944279:313804"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.jpg"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.jpg"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpg"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.jpg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Script.js"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Sprite Default.lsmat"
+                    },
+                    {
+                        "k": "5",
+                        "v": "coolHue-81FFEF-F067B4s.jpg"
+                    },
+                    {
+                        "k": "6",
+                        "v": "coolHue-81FFEF-F067B4_3.jpg"
+                    },
+                    {
+                        "k": "7",
+                        "v": "coolHue-81FFEF-F067B4w.jpg"
+                    },
+                    {
+                        "k": "8",
+                        "v": "coolHue-81FFEF-F067B41.jpg"
+                    },
+                    {
+                        "k": "9",
+                        "v": "CompatibilityFiles"
+                    },
+                    {
+                        "k": "10",
+                        "v": "CompatibilityFiles\/Resource34.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "base_post_effect_lookup_table_new232832 (5).jpg"
+                    },
+                    {
+                        "k": "12",
+                        "v": "coolHue-FFF6B7-F6416C.png"
+                    },
+                    {
+                        "k": "13",
+                        "v": "coolHue-FD6585-0D25B9.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "coolHue-72EDF2-5151E5.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "coolHue-81FFEF-F067B4.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "3a9cdc49b3eb521ec5009e473c8725eb"
+                    },
+                    {
+                        "k": "4",
+                        "v": "440b16fcf4e4f3059143010c598aad19"
+                    },
+                    {
+                        "k": "5",
+                        "v": "e2e67acf97afbebd6c742d30af272e6b"
+                    },
+                    {
+                        "k": "6",
+                        "v": "40ca3f07f5b78750924070766e8d09ef"
+                    },
+                    {
+                        "k": "7",
+                        "v": "bfc4aef95beb4542fdba653b1ebed662"
+                    },
+                    {
+                        "k": "8",
+                        "v": "685efe4f3745d8421ee5f66a49bc6388"
+                    },
+                    {
+                        "k": "10",
+                        "v": "cd6dcaa5c4b1c51d134375abb3fdebc6"
+                    },
+                    {
+                        "k": "11",
+                        "v": "345fed5a18312e39ce36b687717dd08a"
+                    },
+                    {
+                        "k": "12",
+                        "v": "40e73b32e7035e080e3888b64b452450"
+                    },
+                    {
+                        "k": "13",
+                        "v": "30ef468d7d7af7a29a04cc89d2bc62b0"
+                    },
+                    {
+                        "k": "14",
+                        "v": "4c12945cf2017afe23e26ff11a2bff85"
+                    },
+                    {
+                        "k": "15",
+                        "v": "43b2a4cfcdd7514760a9ef65d76c8f2b"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-13T12:39:24",
+                        "name": "Public",
+                        "hash": "f00a9b01436befb8c995b649706d9f27",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T11:17:39",
+                                "name": "base_post_effect_lookup_table_new232832 (5).jpg",
+                                "hash": "345fed5a18312e39ce36b687717dd08a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-13T12:36:26",
+                                "name": "CompatibilityFiles",
+                                "hash": "947774f53c3f62233aca9da97959a972",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-13T12:36:23",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-13T12:36:26",
+                                        "name": "Resource34.lsmat",
+                                        "hash": "cd6dcaa5c4b1c51d134375abb3fdebc6",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:38:42",
+                                "name": "coolHue-72EDF2-5151E5.png",
+                                "hash": "4c12945cf2017afe23e26ff11a2bff85",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:38:39",
+                                "name": "coolHue-81FFEF-F067B4.png",
+                                "hash": "43b2a4cfcdd7514760a9ef65d76c8f2b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "coolHue-81FFEF-F067B41.jpg",
+                                "hash": "685efe4f3745d8421ee5f66a49bc6388",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "coolHue-81FFEF-F067B4s.jpg",
+                                "hash": "e2e67acf97afbebd6c742d30af272e6b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "coolHue-81FFEF-F067B4w.jpg",
+                                "hash": "bfc4aef95beb4542fdba653b1ebed662",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "coolHue-81FFEF-F067B4_3.jpg",
+                                "hash": "40ca3f07f5b78750924070766e8d09ef",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:38:47",
+                                "name": "coolHue-FD6585-0D25B9.png",
+                                "hash": "30ef468d7d7af7a29a04cc89d2bc62b0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:38:57",
+                                "name": "coolHue-FFF6B7-F6416C.png",
+                                "hash": "40e73b32e7035e080e3888b64b452450",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:23",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:36:13",
+                                "name": "Script.js",
+                                "hash": "3a9cdc49b3eb521ec5009e473c8725eb",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-13T12:37:47",
+                                "name": "Sprite Default.lsmat",
+                                "hash": "440b16fcf4e4f3059143010c598aad19",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "3",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1531920410886379:1202",
+                        "fileId": "4",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1531926171953165:298686",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Sprite Default",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1531926221195684:300123",
+                        "fileId": "5",
+                        "originalId": "11",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4s",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1531927994881236:309853",
+                        "fileId": "8",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4_3",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1531927994754245:309831",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "6",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4w",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1531927994997631:309875",
+                        "fileId": "9",
+                        "originalId": "18446744073709551615",
+                        "publicId": "7",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B41",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1531927994636543:309809",
+                        "fileId": "6",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "CompatibilityFiles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "9",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Resource34",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "uid": "1531928429791286:314172",
+                                "fileId": "10",
+                                "originalId": "12",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_new232832 (5)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "35",
+                        "dependency": "0",
+                        "uid": "1592032023128235:10948",
+                        "fileId": "13",
+                        "originalId": "14",
+                        "publicId": "11",
+                        "source": "C:\/Users\/MANIDEEP\/Desktop\/LT\/base_post_effect_lookup_table_new232832 (5).jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-FFF6B7-F6416C",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "36",
+                        "dependency": "0",
+                        "uid": "1592032153018468:24157",
+                        "fileId": "15",
+                        "originalId": "16",
+                        "publicId": "12",
+                        "source": "D:\/DOWNLOADS\/coolHue-FFF6B7-F6416C.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-FD6585-0D25B9",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "37",
+                        "dependency": "0",
+                        "uid": "1592032156516332:24602",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "13",
+                        "source": "D:\/DOWNLOADS\/coolHue-FD6585-0D25B9.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-72EDF2-5151E5",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "uid": "1592032160164625:25060",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "14",
+                        "source": "D:\/DOWNLOADS\/coolHue-72EDF2-5151E5.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "uid": "1592032164012067:25539",
+                        "fileId": "21",
+                        "originalId": "22",
+                        "publicId": "15",
+                        "source": "D:\/DOWNLOADS\/coolHue-81FFEF-F067B4.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1531926171955037:298698"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

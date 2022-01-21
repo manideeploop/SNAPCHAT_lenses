@@ -1,0 +1,845 @@
+{
+    "lens_id": "292564d8-8253-463d-9434-ae8252c414c3",
+    "document_id": "ggb61_H37M4aEBmvgtl8",
+    "original_document_id": "ggb61_H37M4aEBmvgtl8",
+    "version": "24",
+    "lastChanged": "1592465690457",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-06-18T04:37:44.968Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Empty"
+                    ],
+                    [
+                        "Indie Flower"
+                    ],
+                    [
+                        "Merriweather"
+                    ],
+                    [
+                        "Pacifico"
+                    ],
+                    [
+                        "Pacifico 2"
+                    ],
+                    [
+                        "WhatsApp Image 2020-06-17 at 5"
+                    ],
+                    [
+                        "floral_frame_PNG350"
+                    ],
+                    [
+                        "leaves"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1592395069780872:10559"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "6b256679b0ab41bfa7d7e5010a44e322",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "flora--",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Pair 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1592395028855316:4170",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1592395032457519:4618",
+                    "name": "Files\/File10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1592395036239990:5091",
+                    "name": "Files\/File12.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1592395070066567:10638",
+                    "name": "Files\/File14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1592395191479912:33758",
+                    "name": "Files\/File16.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1592395208965134:36809",
+                    "name": "Files\/File17.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1592395222262835:39092",
+                    "name": "Files\/File18.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1592395292472422:48288",
+                    "name": "Files\/File19.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1592395435959106:68862",
+                    "name": "Files\/File20.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1592395045013486:6378",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592395083125838:12926",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592395144616550:22447",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592395144675221:22585",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1592395044914060:6161",
+                "4": "1592395044956499:6234",
+                "5": "1592395045013300:6377",
+                "6": "1592395069779885:10558",
+                "7": "1592395069780872:10559",
+                "8": "1592395083068873:12658",
+                "9": "1592395144613869:22445",
+                "10": "1592395144674992:22584"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.gif"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpeg"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.jpeg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.ttf"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.ttf"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.ttf"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.ttf"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "leaves.gif"
+                    },
+                    {
+                        "k": "969",
+                        "v": "floral_frame_PNG350.png"
+                    },
+                    {
+                        "k": "970",
+                        "v": "WhatsApp Image 2020-06-17 at 5.jpeg"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Empty.png"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Merriweather.ttf"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Pacifico.ttf"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Pacifico 2.ttf"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Indie Flower.ttf"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Behavior.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "b95bee33624013b310a6b8d70a67dd20"
+                    },
+                    {
+                        "k": "969",
+                        "v": "03bc2e38183f0636f03e2869ed09fc36"
+                    },
+                    {
+                        "k": "970",
+                        "v": "276483530d11a9ce104155a8ddc3f798"
+                    },
+                    {
+                        "k": "971",
+                        "v": "176ebd81a6145a98cc0464c9264b7fce"
+                    },
+                    {
+                        "k": "972",
+                        "v": "f96a44b40f99ae4b63f275f1142f7c98"
+                    },
+                    {
+                        "k": "973",
+                        "v": "324944d6dae53ea48a648b1d44ec78c3"
+                    },
+                    {
+                        "k": "974",
+                        "v": "324944d6dae53ea48a648b1d44ec78c3"
+                    },
+                    {
+                        "k": "975",
+                        "v": "cbd50882df82be5fce046e52b302e316"
+                    },
+                    {
+                        "k": "976",
+                        "v": "28d340e48fb1e441f05af039a46534b2"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-17T17:33:56",
+                        "name": "Public",
+                        "hash": "1f224f4b1efd127ab5bffc0cc7a1dfc5",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:16",
+                                "name": "Behavior.js",
+                                "hash": "28d340e48fb1e441f05af039a46534b2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Empty.png",
+                                "hash": "176ebd81a6145a98cc0464c9264b7fce",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-17T17:24:21",
+                                "name": "floral_frame_PNG350.png",
+                                "hash": "03bc2e38183f0636f03e2869ed09fc36",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:16",
+                                "name": "Indie Flower.ttf",
+                                "hash": "cbd50882df82be5fce046e52b302e316",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-17T17:25:50",
+                                "name": "leaves.gif",
+                                "hash": "b95bee33624013b310a6b8d70a67dd20",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:16",
+                                "name": "Merriweather.ttf",
+                                "hash": "f96a44b40f99ae4b63f275f1142f7c98",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:16",
+                                "name": "Pacifico 2.ttf",
+                                "hash": "324944d6dae53ea48a648b1d44ec78c3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:16",
+                                "name": "Pacifico.ttf",
+                                "hash": "324944d6dae53ea48a648b1d44ec78c3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-17T17:23:51",
+                                "name": "WhatsApp Image 2020-06-17 at 5.jpeg",
+                                "hash": "276483530d11a9ce104155a8ddc3f798",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "leaves",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1592395028855316:4170",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "floral_frame_PNG350",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1592395032457519:4618",
+                        "fileId": "10",
+                        "originalId": "11",
+                        "publicId": "969",
+                        "source": "D:\/DOWNLOADS\/floral_frame_PNG350.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "WhatsApp Image 2020-06-17 at 5",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1592395036239990:5091",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "970",
+                        "source": "D:\/DOWNLOADS\/WhatsApp Image 2020-06-17 at 5.19.00 PM.jpeg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Empty",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1592395070066567:10638",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "971",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Empty.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Merriweather",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1592395191479912:33758",
+                        "fileId": "16",
+                        "originalId": "18446744073709551615",
+                        "publicId": "972",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/Merriweather-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Pacifico",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1592395208965134:36809",
+                        "fileId": "17",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/Pacifico-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Pacifico 2",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1592395222262835:39092",
+                        "fileId": "18",
+                        "originalId": "18446744073709551615",
+                        "publicId": "974",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/Pacifico-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Indie Flower",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1592395292472422:48288",
+                        "fileId": "19",
+                        "originalId": "18446744073709551615",
+                        "publicId": "975",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/IndieFlower.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1592395435959106:68862",
+                        "fileId": "20",
+                        "originalId": "18446744073709551615",
+                        "publicId": "976",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Scripts\/BehaviorScript.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1592395144613869:22445"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

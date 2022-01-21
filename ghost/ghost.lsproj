@@ -1,0 +1,959 @@
+{
+    "lens_id": "",
+    "document_id": "BmMi1IJ78RyuO36BDnmT",
+    "original_document_id": "BmMi1IJ78RyuO36BDnmT",
+    "version": "23",
+    "lastChanged": "1588744908319",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "3D Mosaic"
+                    ],
+                    [
+                        "Car Paint"
+                    ],
+                    [
+                        "Disintegrate"
+                    ],
+                    [
+                        "Edge Detection"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Hologram"
+                    ],
+                    [
+                        "Refraction"
+                    ],
+                    [
+                        "Resource"
+                    ],
+                    [
+                        "Spectacles Depth"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Car_Paint_Noise"
+                    ],
+                    [
+                        "Textures",
+                        "mosaicColors"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1587746777887455:1871",
+                    "1588744154578573:4238"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "1",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "1587747052826470:4267",
+            "active_graph_pass": "0"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1587746778362942:1944",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1587746797336157:2105",
+                    "name": "Files\/File3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1587747052826470:4267",
+                    "name": "Files\/File7",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1587747289935760:6734",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1587747290557693:6784",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1587747655006421:10731",
+                    "name": "Files\/File15.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1587747675873973:11170",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1587747761532417:11658",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1587747777023631:11889",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1587747777657689:11939",
+                    "name": "Files\/File25.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1588744586805631:12656",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1588744706265742:12890",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1587746777886948:1870",
+                "4": "1587746777887455:1871",
+                "5": "1587746777900200:1891",
+                "6": "1587747065959202:4460",
+                "7": "1587747568482954:9095",
+                "8": "1587747589226874:9532",
+                "9": "1587747844494213:12421",
+                "10": "1587747852419351:12810",
+                "11": "1587747858709063:13211",
+                "12": "1587747871483660:13826",
+                "13": "1587747878481308:14269",
+                "14": "1587747887459777:14724",
+                "15": "1588744724829702:13514",
+                "16": "1588744724830500:13516",
+                "17": "1588744724832169:13530",
+                "18": "1588744724833749:13544",
+                "19": "1588744724836423:13558",
+                "20": "1588744724839601:13572",
+                "21": "1588744724842163:13586",
+                "22": "1588744724843797:13600",
+                "23": "1588744724845251:13614",
+                "24": "1588744724846680:13628"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.lsmat"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.lsmat"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsmat"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.jpg"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Hologram.lsmat"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Disintegrate.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Textures\/Car_Paint_Noise.jpg"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Car Paint.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Edge Detection.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Spectacles Depth.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Textures\/mosaicColors.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "3D Mosaic.lsmat"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Resource.jpg"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Refraction.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "373a9000db7f8cb56829c1f58cd1f9a3"
+                    },
+                    {
+                        "k": "4",
+                        "v": "71b9c4f5da881db31773f22c948f5e87"
+                    },
+                    {
+                        "k": "5",
+                        "v": "aef2635c4301d0c53262c4fef353759b"
+                    },
+                    {
+                        "k": "7",
+                        "v": "0c54c119030470f52a2c73733233d08d"
+                    },
+                    {
+                        "k": "8",
+                        "v": "1e7de6b7548b51a0ad42619c5b2e7743"
+                    },
+                    {
+                        "k": "9",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "10",
+                        "v": "ab6a1ac35653c4bd3939fe7bf8069577"
+                    },
+                    {
+                        "k": "11",
+                        "v": "a0edc078e11ad8155ad891b89737f1c0"
+                    },
+                    {
+                        "k": "12",
+                        "v": "64d714bc46c61b2c48865cc13b60afc4"
+                    },
+                    {
+                        "k": "13",
+                        "v": "1d1050304564c54e5c84a64b1d57c21d"
+                    },
+                    {
+                        "k": "14",
+                        "v": "c92818fccad33fcb4a912469d8bfef17"
+                    },
+                    {
+                        "k": "15",
+                        "v": "845685d3d941a8cb8477d5585c6abcb2"
+                    },
+                    {
+                        "k": "16",
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    },
+                    {
+                        "k": "17",
+                        "v": "98de926a053ed6594f97ec48f7c6713c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-06T11:28:26",
+                        "name": "Public",
+                        "hash": "dca6d50fb90b4ec8f1ca5aaaa83c20ed",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-24T22:41:37",
+                                "name": "3D Mosaic.lsmat",
+                                "hash": "af9c3e346dc11234bd8d10d7a6a4bd39",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-24T22:41:37",
+                                "name": "Car Paint.lsmat",
+                                "hash": "7e8e1b9b41b9d3be3c2e86b6fe73059f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-24T22:41:36",
+                                "name": "Disintegrate.lsmat",
+                                "hash": "6be2a2b92196f54af596d569b1568849",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-24T22:31:16",
+                                "name": "Edge Detection.lsmat",
+                                "hash": "64d714bc46c61b2c48865cc13b60afc4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-24T22:41:36",
+                                "name": "Hologram.lsmat",
+                                "hash": "66afead500aba6d7188858f0a8e91038",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T11:28:26",
+                                "name": "Refraction.lsmat",
+                                "hash": "aae31251906df32e0b2c71d612067b72",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "Resource.jpg",
+                                "hash": "24006fd7408670db8d6088bf3d7f5f5e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-24T22:32:41",
+                                "name": "Spectacles Depth.lsmat",
+                                "hash": "1d1050304564c54e5c84a64b1d57c21d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-24T22:41:37",
+                                "name": "Textures",
+                                "hash": "617cd97710e456923c98f9348f954807",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-24T22:30:54",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-24T22:24:50",
+                                        "name": "Car_Paint_Noise.jpg",
+                                        "hash": "0c54c119030470f52a2c73733233d08d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-24T22:24:50",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-24T22:32:57",
+                                        "name": "mosaicColors.png",
+                                        "hash": "c92818fccad33fcb4a912469d8bfef17",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1587746778362942:1944",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Disintegrate",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1587747052826470:4267",
+                        "fileId": "7",
+                        "originalId": "8",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Hologram",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1587746797336157:2105",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Car Paint",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1587747289935760:6734",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "6",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Car_Paint_Noise",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1587747290557693:6784",
+                                "fileId": "11",
+                                "originalId": "12",
+                                "publicId": "7",
+                                "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-LjvkUL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1587747655006421:10731",
+                                "fileId": "15",
+                                "originalId": "16",
+                                "publicId": "9",
+                                "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-LjvkUL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "mosaicColors",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1587747777657689:11939",
+                                "fileId": "25",
+                                "originalId": "26",
+                                "publicId": "14",
+                                "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-LjvkUL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Edge Detection",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1587747675873973:11170",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "12",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Spectacles Depth",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1587747761532417:11658",
+                        "fileId": "21",
+                        "originalId": "22",
+                        "publicId": "13",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "3D Mosaic",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1587747777023631:11889",
+                        "fileId": "23",
+                        "originalId": "24",
+                        "publicId": "15",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Resource",
+                        "type": "15",
+                        "subtype": "1",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1588744586805631:12656",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "16",
+                        "source": "C:\/Users\/MANIDEEP\/AppData\/Local\/Temp\/Lens Studio-ndrUmg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Refraction",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1588744706265742:12890",
+                        "fileId": "29",
+                        "originalId": "30",
+                        "publicId": "17",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
